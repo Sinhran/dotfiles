@@ -442,24 +442,25 @@
     format = "<span size="250%">%s</span>\n%b"
 
 [urgency_critical]
-    background = "#e78284"
+    background = "#f5e0dc"
     foreground = "#1e1e2e"
-    frame_color = "#f2d5cf"
+    frame_color = "#f38ba8"
     icon = "~/.config/dunst/icons/critical.svg"
     timeout = 0
     # Icon for notifications with critical urgency, uncomment to enable
     #default_icon = /path/to/icon
 
+
 [urgency_low]
-    background = "#303446"
-    foreground = "#f4b8e4"
-    frame_color = "#99d1db"
+    background = "#eff1f5"
+    foreground = "#4c4f69"
+    frame_color = "#8839ef"
     icon = "~/.config/dunst/icons/hyprdots.svg"
     timeout = 5
 
 [urgency_normal]
-    background = "#eff1f5"
-    foreground = "#ea76cb"
-    frame_color = "#04a5e5"
+    background = "#303446"
+    foreground = "#c6d0f5"
+    frame_color = "#babbf1"
     icon = "~/.config/dunst/icons/hyprdots.svg"
     timeout = 5
