@@ -1,6 +1,0 @@
-firefox.settings.services.mozilla.com:HSTS	0	19807	1742889771251,1,0
-services.addons.mozilla.org:HSTS	0	19807	1742889786875,1,0
-shavar.services.mozilla.com^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:HSTS	0	19807	1742889767375,1,1
-location.services.mozilla.com:HSTS	0	19807	1742889761477,1,1
-aus5.mozilla.org:HSTS	0	19807	1742889787672,1,0
-www.waterfox.net^partitionKey=%28http%2Cwaterfox.net%29:HSTS	0	19807	1742889763974,1,1
