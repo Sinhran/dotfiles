@@ -44,6 +44,7 @@ export C_INCLUDE_PATH=/usr/local/include
 export LIBRARY_PATH=/usr/local/lib
 alias vim=nvim
 export PROMPT="󰣇 %~ $ "
+alias waterfox=net.waterfox.waterfox
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
