@@ -6,23 +6,22 @@
     "layer": "top",
     "position": "top",
     "mod": "dock",
-    "height": 31,
+    "height": 20,
     "exclusive": true,
     "passthrough": false,
     "gtk-layer-shell": true,
 
-
 // positions generated based on config.ctl //
 
-	"modules-left": ["custom/padd","custom/l_end","custom/power","custom/cliphist","","custom/r_end","custom/l_end","wlr/taskbar","custom/spotify","custom/r_end","","custom/padd"],
-	"modules-center": ["custom/padd","custom/l_end","idle_inhibitor","clock","custom/r_end","custom/padd"],
-	"modules-right": ["custom/padd","custom/l_end","tray","battery","custom/r_end","custom/l_end","backlight","network","bluetooth","pulseaudio","pulseaudio#microphone","custom/keybindhint","custom/r_end","custom/padd"],
+	"modules-left": ["custom/l_end","clock","custom/r_end","hyprland/workspaces","custom/l_end","custom/spotify","custom/r_end"],
+	"modules-center": ["custom/l_end","hyprland/window","custom/r_end"],
+	"modules-right": ["custom/cliphist","wlr/taskbar","battery","backlight","tray","network","bluetooth","pulseaudio","pulseaudio#microphone","custom/power","custom/r_end"],
 
 
 // sourced from modules based on config.ctl //
 
     "custom/power": {
-        "format": "{}",
+        "format": "<span font-family='Material Icons' size='large'></span>",
         "rotate": 0,
         "exec": "echo ; echo  logout",
         "on-click": "/home/engel/.config/hyprdots/scripts/logoutlaunch.sh 2",
@@ -32,7 +31,7 @@
     },
 
     "custom/cliphist": {
-        "format": "{}",
+        "format": "<span font-family='Material Icons' size='large'></span>",
         "rotate": 0,
         "exec": "echo ; echo 󰅇 clipboard history",
         "on-click": "sleep 0.1 && /home/engel/.config/hyprdots/scripts/cliphist.sh c",
@@ -69,7 +68,7 @@
         "on-click-middle": "playerctl previous --player spotify",
         "on-scroll-up": "/home/engel/.config/hyprdots/scripts/volumecontrol.sh -p spotify i",
         "on-scroll-down": "/home/engel/.config/hyprdots/scripts/volumecontrol.sh -p spotify d",
-        "max-length": 25,
+        "max-length": 35,
         "escape": true,
         "tooltip": true
     },
@@ -77,10 +76,6 @@
     "idle_inhibitor": {
         "format": "{icon}",
         "rotate": 0,
-        "format-icons": {
-            "activated": "󰥔",
-            "deactivated": ""
-        }
     },
 
     "clock": {
@@ -111,7 +106,6 @@
     "tray": {
         "icon-size": 18,
         "rotate": 0,
-        "spacing": 5
     },
 
     "battery": {
@@ -140,12 +134,12 @@
 
     "network": {
         "tooltip": true,
-        "format-wifi": " ",
+        "format-wifi": "<span font-family='Material Icons' size='large'> </span>",
         "rotate": 0,
-        "format-ethernet": "󰈀 ",
+        "format-ethernet": "<span font-family='Material Icons' size='large'> </span>",
         "tooltip-format": "Network: <big><b>{essid}</b></big>\nSignal strength: <b>{signaldBm}dBm ({signalStrength}%)</b>\nFrequency: <b>{frequency}MHz</b>\nInterface: <b>{ifname}</b>\nIP: <b>{ipaddr}/{cidr}</b>\nGateway: <b>{gwaddr}</b>\nNetmask: <b>{netmask}</b>",
-        "format-linked": "󰈀 {ifname} (No IP)",
-        "format-disconnected": "󰖪 ",
+        "format-linked": "<span font-family='Material Icons' size='large'󰈀</span> {ifname} (No IP)",
+        "format-disconnected": "<span font-family='Material Icons' size='large'󰖪 </span>",
         "tooltip-format-disconnected": "Disconnected",
         "format-alt": "<span foreground='#99ffdd'> {bandwidthDownBytes}</span> <span foreground='#ffcc66'> {bandwidthUpBytes}</span>",
         "interval": 2,
@@ -167,7 +161,7 @@
     },
 
     "pulseaudio": {
-        "format": "{icon} {volume}",
+        "format": "<span font-family='Material Icons' size='large'>{icon}</span> {volume}",
         "rotate": 0,
         "format-muted": "婢",
         "on-click": "pavucontrol -t 3",
@@ -188,7 +182,7 @@
     },
 
     "pulseaudio#microphone": {
-        "format": "{format_source}",
+        "format": "<span font-family='Material Icons' size='large'>{format_source}</span>",
         "rotate": 0,
         "format-source": "",
         "format-source-muted": "",

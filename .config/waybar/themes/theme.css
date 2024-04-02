@@ -1,1 +1,97 @@
-/home/engel/.config/waybar/themes/Catppuccin-Mocha.css
+@define-color bar-bg #45475a;
+
+@define-color main-bg rgba(0,0,0,0);
+@define-color main-fg #cdd6f4;
+
+@define-color wb-act-bg #cba6f7;
+@define-color wb-act-fg #313244;
+
+@define-color wb-hvr-bg #f5c2e7;
+@define-color wb-hvr-fg #313244;
+
+
+@define-color rosewater #f5e0dc;
+@define-color flamingo #f2cdcd;
+@define-color pink #f5c2e7;
+@define-color mauve #cba6f7;
+@define-color red #f38ba8;
+@define-color maroon #eba0ac;
+@define-color peach #fab387;
+@define-color  yellow #f9e2af;
+@define-color green #a6e3a1;
+@define-color teal #94e2d5;
+@define-color sky #89dceb;
+@define-color sapphire #74c7ec;
+@define-color blue #89b4fa;
+@define-color lavender #b4befe;
+@define-color text #cdd6f4;
+@define-color subtext_1 #bac2de;
+@define-color subtext_0 #a6adc8;
+@define-color overlay_2 #9399b2;
+@define-color overlay_1 #7f849c;
+@define-color overlay_0 #6c7086;
+@define-color surface_2 #585b70;
+@define-color surface_1 #45465a;
+@define-color surface_0 #313244;
+@define-color base #1e1e2e;
+@define-color mantle #181825;
+@define-color crust #11111b;
+
+@define-color cyber_blue #05dffc;
+@define-color cyber_pink #fc05e7;
+ 
+@define-color gruv_bg #282828;
+@define-color gruv_red #cc241d;
+@define-color gruv_red2 #fb4934;
+@define-color gruv_gray #928374;
+@define-color gruv_green #98971a;
+@define-color gruv_green1 #b8bb26;
+@define-color gruv_yellow #d79921;
+@define-color gruv_yellow1 #fabd2f;
+@define-color gruv_blue #458588;
+@define-color gruv_blue1 #83a598;
+@define-color gruv_purple #b16286;
+@define-color gruv_purple1 #d3869b;
+@define-color gruv_aqua #689d6a;
+@define-color gruv_aqua1 #8ec07c;
+@define-color gruv_gray1 #a89984;
+@define-color gruv_fg #ebdbb2;
+@define-color gruv_orange #fe8019;
+@define-color gruv_orange1 #d65d0e;
+@define-color gruv_gray2 #928374;
+@define-color gruv_fg0 #fbf1c7;
+@define-color gruv_bg4 #7c6f64;
+@define-color gruv_fg1 #ebdbb2;
+@define-color gruv_bg3 #665c54;
+@define-color gruv_fg2 #d5c4a1;
+@define-color gruv_bg2 #504945;
+@define-color gruv_fg3 #bdae93;
+@define-color gruv_bg1 #3c3836;
+@define-color gruv_fg4 #a89984;
+
+
+@define-color tokyo_teal #4fd6be;
+@define-color tokyo_pale_teal #41a6b5;
+@define-color tokyo_pale_red #ff757f;
+@define-color tokyo_red #c53b53;
+@define-color tokyo_pink #ff007c;
+@define-color tokyo_lavender #bb9af7;
+@define-color tokyo_purple #9d7cd8;
+@define-color tokyo_orange #ff9e64;
+@define-color tokyo_yellow #ffc777;
+@define-color tokyo_green #c3e88d;
+@define-color tokyo_dark_blue #394b70;
+@define-color tokyo_blue #3d59a1;
+@define-color tokyo_pale_blue #7aa2f7;
+@define-color tokyo_light_blue #7dcfff;
+@define-color tokyo_pale_light_blue #bdf9f8;
+@define-color tokyo_0 #c0caf5;
+@define-color tokyo_1 #a9b1d6;
+@define-color tokyo_2 #737aa2;
+@define-color tokyo_3 #565f89;
+@define-color tokyo_4 #545c7e;
+@define-color tokyo_5 #414868;
+@define-color tokyo_6 #3b4261;
+@define-color tokyo_7 #292e42;
+@define-color tokyo_8 #24283b;
+@define-color tokyo_9 #1f2335;
