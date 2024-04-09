@@ -1,0 +1,6 @@
+{
+  "barbar.nvim": { "branch": "master", "commit": "dd852401ee902745b67fc09a83d113b3fe82a96f" },
+  "gitsigns.nvim": { "branch": "main", "commit": "1a50b94066def8591d5f65bd60a4233902e9def4" },
+  "lazy.nvim": { "branch": "main", "commit": "31ddbea7c10b6920c9077b66c97951ca8682d5c8" },
+  "nvim-web-devicons": { "branch": "master", "commit": "fd4abfc5237246670977972c6f518186b621a32d" }
+}
