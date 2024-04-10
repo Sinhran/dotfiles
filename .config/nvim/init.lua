@@ -16,7 +16,8 @@ vim.opt.rtp:prepend(lazypath)
 -- lazy.nvim plugins and opts
 local opts = {}
 
--- vim options initialisation
+vim.g.barbar_auto_setup = true
+
 require("vimset")
 
 

@@ -9,5 +9,6 @@
 	  config = function()
       vim.keymap.set('n', '<leader>n', ':Neotree filesystem toggle right<CR>', {})
       vim.keymap.set('n', '<leader>`', ':Neotree focus<CR>', {})
+      vim.keymap.set('n', '<leader>1', ':Neotree toggle buffers<CR>', {})
 	  end
 	}
