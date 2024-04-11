@@ -1,0 +1,9 @@
+
+[color]
+
+ gradient = 1
+ gradient_count = 4
+ gradient_color_1 = '#252528'
+ gradient_color_2 = '#282932'
+ gradient_color_3 = '#6B3034'
+ gradient_color_4 = '#852A2A'

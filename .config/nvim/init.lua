@@ -20,7 +20,6 @@ vim.g.barbar_auto_setup = true
 
 require("vimset")
 
-
 -- lazy.nvim initalisation (setup)
 require("lazy").setup("plugins")
 

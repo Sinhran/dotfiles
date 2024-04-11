@@ -9,3 +9,5 @@ vim.cmd("set autoindent")
 vim.cmd("set smartindent")
 vim.opt.clipboard = 'unnamedplus'
 vim.g.mapleader = " "
+
+vim.api.nvim_set_keymap('n', '<leader>t', ':term<cr>', {noremap = true})
