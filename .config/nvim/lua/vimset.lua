@@ -11,4 +11,5 @@ vim.opt.clipboard = 'unnamedplus'
 vim.g.mapleader = " "
 
 vim.api.nvim_set_keymap('n', '<leader>t', ':term<cr>', {noremap = true})
-vim.api.nvim_set_keymap('t', '<leader>/', "<C-\\><C-n><C-w>h",{silent = true})
+vim.api.nvim_set_keymap('t', '<leader>\\', "<C-\\><C-n><C-w>h",{silent = true})
+vim.api.nvim_set_keymap('t', '<leader>-', "exit<CR> && y<CR>",{silent = true})
