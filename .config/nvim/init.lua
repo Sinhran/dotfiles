@@ -1,7 +1,6 @@
-
 -- lazy.nvim
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
-if not (vim.uv or vim.loop).fs_stat(lazypath) then
+if not vim.loop.fs_stat(lazypath) then
   vim.fn.system({
     "git",
     "clone",
@@ -14,13 +13,23 @@ end
 vim.opt.rtp:prepend(lazypath)
 
 -- lazy.nvim plugins and opts
-local opts = {}
 
-vim.g.barbar_auto_setup = true
-
+-- Load vimset configuration
 require("vimset")
 
--- lazy.nvim initalisation (setup)
+-- lazy.nvim initialization (setup)
 require("lazy").setup("plugins")
 
+-- Toggle hex dump view
+function ToggleHex()
+  if vim.bo.filetype == "xxd" then
+    vim.cmd('%!xxd -r')
+    vim.bo.filetype = ''
+  else
+    vim.cmd('%!xxd')
+    vim.bo.filetype = 'xxd'
+  end
+end
 
+-- Set keymap to toggle hex view
+vim.api.nvim_set_keymap('n', '<leader>x', ':lua ToggleHex()<CR>', { noremap = true, silent = true })
