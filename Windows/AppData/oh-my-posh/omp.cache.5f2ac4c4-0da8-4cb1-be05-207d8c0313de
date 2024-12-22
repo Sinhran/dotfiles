@@ -1,0 +1,12 @@
+{
+    "prompt_count_cache": {
+        "value": "1",
+        "timestamp": 1734798389,
+        "ttl": 86400
+    },
+    "template_cache": {
+        "value": "{\"SegmentsCache\":{\"Path\":{\"Text\":\"  \\u003cLINK\\u003efile:C:/Users/Engel\\u003cTEXT\\u003e~\\u003c/TEXT\\u003e\\u003c/LINK\\u003e \",\"Location\":\"C:/Users/Engel\",\"Path\":\"~\",\"Folders\":[],\"StackCount\":0,\"Writable\":true,\"RootDir\":false},\"Session\":{\"Text\":\" Engel \",\"DefaultUserName\":\"\",\"SSHSession\":false},\"Shell\":{\"Text\":\"in \\u003cp:blue\\u003e\\u003cb\\u003epwsh\\u003c/b\\u003e\\u003c/\\u003e \",\"Name\":\"pwsh\",\"Version\":\"5.1.26100.1591\"},\"Status\":{\"Text\":\"  \",\"String\":\"0\",\"Meaning\":\"0\",\"Code\":0,\"Error\":false},\"Time\":{\"Text\":\"at \\u003cp:blue\\u003e\\u003cb\\u003e21:56:29\\u003c/b\\u003e\\u003c/\\u003e\",\"CurrentDate\":\"2024-12-21T21:56:29.9200823+05:30\",\"Format\":\"15:04:05\"}},\"Segments\":{},\"Var\":{},\"ShellVersion\":\"5.1.26100.1591\",\"AbsolutePWD\":\"C:\\\\Users\\\\Engel\",\"PSWD\":\"\",\"UserName\":\"Engel\",\"HostName\":\"Uwintosh\",\"PWD\":\"~\",\"Shell\":\"pwsh\",\"Folder\":\"Engel\",\"OS\":\"windows\",\"Code\":0,\"PromptCount\":1,\"SHLVL\":0,\"Jobs\":0,\"WSL\":false,\"Root\":false}",
+        "timestamp": 1734798389,
+        "ttl": 86400
+    }
+}

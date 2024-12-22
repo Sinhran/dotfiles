@@ -1,0 +1,122 @@
+[2024-12-21T14:56:04] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\WINDOWS\Explorer.EXE'.
+[2024-12-21T14:56:04] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T14:56:05] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\Program Files (x86)\Stardock\Start11\Start11Config.exe'.
+[2024-12-21T14:56:05] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\Program Files (x86)\Stardock\Start11\Start11Config.exe'.
+[2024-12-21T14:56:05] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T14:56:05] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T14:56:05] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\Program Files (x86)\Stardock\Start11\Start11Config.exe'.
+[2024-12-21T14:56:05] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T14:56:05] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\Program Files (x86)\Stardock\Start11\Start11Config.exe'.
+[2024-12-21T14:56:05] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T14:56:07] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\Program Files (x86)\Stardock\Start11\SdDisplay.exe'.
+[2024-12-21T14:56:07] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T14:58:55] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\WINDOWS\Explorer.EXE'.
+[2024-12-21T14:58:55] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T14:59:01] Error   : HTTPS POST 'https://activate.api.stardock.net/sas/2014-02-01/activation/validatelicense' Encountered an error: SendRequest::WinHttpSendRequest failed
+[2024-12-21T14:59:01] Error   : HTTPS POST 'https://activate.api.stardock.net/sas/2014-02-01/activation/validatelicense' Encountered an error: SendRequest::WinHttpSendRequest failed
+[2024-12-21T14:59:01] Error   : HTTPS POST 'https://activate.api.stardock.net/sas/2014-02-01/activation/validatelicense' Encountered an error: SendRequest::WinHttpSendRequest failed
+[2024-12-21T14:59:01] Error   : Validate License: Failed to make connection to Activation Server.
+[2024-12-21T14:59:06] Error   : HTTPS POST 'https://activate.api.stardock.net/sas/2014-02-01/activation/updatecheck' Encountered an error: SendRequest::WinHttpSendRequest failed
+[2024-12-21T14:59:06] Error   : HTTPS POST 'https://activate.api.stardock.net/sas/2014-02-01/activation/updatecheck' Encountered an error: SendRequest::WinHttpSendRequest failed
+[2024-12-21T14:59:06] Error   : HTTPS POST 'https://activate.api.stardock.net/sas/2014-02-01/activation/updatecheck' Encountered an error: SendRequest::WinHttpSendRequest failed
+[2024-12-21T14:59:06] Error   : Update Check: Failed to make connection to Activation Server.
+[2024-12-21T14:59:33] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\Program Files (x86)\Stardock\Start11\Start11Config.exe'.
+[2024-12-21T14:59:33] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T15:00:26] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\Windows\explorer.exe'.
+[2024-12-21T15:00:26] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T15:00:33] Error   : HTTPS POST 'https://activate.api.stardock.net/sas/2014-02-01/activation/validatelicense' Encountered an error: SendRequest::WinHttpSendRequest failed
+[2024-12-21T15:00:33] Error   : HTTPS POST 'https://activate.api.stardock.net/sas/2014-02-01/activation/validatelicense' Encountered an error: SendRequest::WinHttpSendRequest failed
+[2024-12-21T15:00:33] Error   : HTTPS POST 'https://activate.api.stardock.net/sas/2014-02-01/activation/validatelicense' Encountered an error: SendRequest::WinHttpSendRequest failed
+[2024-12-21T15:00:33] Error   : Validate License: Failed to make connection to Activation Server.
+[2024-12-21T15:00:37] Error   : HTTPS POST 'https://activate.api.stardock.net/sas/2014-02-01/activation/updatecheck' Encountered an error: SendRequest::WinHttpSendRequest failed
+[2024-12-21T15:00:37] Error   : HTTPS POST 'https://activate.api.stardock.net/sas/2014-02-01/activation/updatecheck' Encountered an error: SendRequest::WinHttpSendRequest failed
+[2024-12-21T15:00:37] Error   : HTTPS POST 'https://activate.api.stardock.net/sas/2014-02-01/activation/updatecheck' Encountered an error: SendRequest::WinHttpSendRequest failed
+[2024-12-21T15:00:37] Error   : Update Check: Failed to make connection to Activation Server.
+[2024-12-21T15:05:02] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\Windows\explorer.exe'.
+[2024-12-21T15:05:02] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T15:05:09] Error   : HTTPS POST 'https://activate.api.stardock.net/sas/2014-02-01/activation/validatelicense' Encountered an error: SendRequest::WinHttpSendRequest failed
+[2024-12-21T15:05:09] Error   : HTTPS POST 'https://activate.api.stardock.net/sas/2014-02-01/activation/validatelicense' Encountered an error: SendRequest::WinHttpSendRequest failed
+[2024-12-21T15:05:09] Error   : HTTPS POST 'https://activate.api.stardock.net/sas/2014-02-01/activation/validatelicense' Encountered an error: SendRequest::WinHttpSendRequest failed
+[2024-12-21T15:05:09] Error   : Validate License: Failed to make connection to Activation Server.
+[2024-12-21T15:05:13] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\Windows\explorer.exe'.
+[2024-12-21T15:05:13] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T15:05:19] Error   : HTTPS POST 'https://activate.api.stardock.net/sas/2014-02-01/activation/validatelicense' Encountered an error: SendRequest::WinHttpSendRequest failed
+[2024-12-21T15:05:19] Error   : HTTPS POST 'https://activate.api.stardock.net/sas/2014-02-01/activation/validatelicense' Encountered an error: SendRequest::WinHttpSendRequest failed
+[2024-12-21T15:05:19] Error   : HTTPS POST 'https://activate.api.stardock.net/sas/2014-02-01/activation/validatelicense' Encountered an error: SendRequest::WinHttpSendRequest failed
+[2024-12-21T15:05:19] Error   : Validate License: Failed to make connection to Activation Server.
+[2024-12-21T15:05:24] Error   : HTTPS POST 'https://activate.api.stardock.net/sas/2014-02-01/activation/updatecheck' Encountered an error: SendRequest::WinHttpSendRequest failed
+[2024-12-21T15:05:24] Error   : HTTPS POST 'https://activate.api.stardock.net/sas/2014-02-01/activation/updatecheck' Encountered an error: SendRequest::WinHttpSendRequest failed
+[2024-12-21T15:05:24] Error   : HTTPS POST 'https://activate.api.stardock.net/sas/2014-02-01/activation/updatecheck' Encountered an error: SendRequest::WinHttpSendRequest failed
+[2024-12-21T15:05:24] Error   : Update Check: Failed to make connection to Activation Server.
+[2024-12-21T15:16:54] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\WINDOWS\Explorer.EXE'.
+[2024-12-21T15:16:54] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T15:17:02] Error   : Validate License (Revoke_LicenseDoesNotExist) 'There is no record for this license. Revoke the current license.'.
+[2024-12-21T15:17:02] Error   : Validate License: Unable to remove License file.
+[2024-12-21T15:22:25] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\Program Files (x86)\Stardock\Start11\Start11Config.exe'.
+[2024-12-21T15:22:25] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T15:22:48] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\Windows\explorer.exe'.
+[2024-12-21T15:22:48] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T15:23:09] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\Windows\explorer.exe'.
+[2024-12-21T15:23:09] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T15:54:44] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\WINDOWS\Explorer.EXE'.
+[2024-12-21T15:54:44] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T16:16:34] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\Program Files (x86)\Stardock\Start11\Start11Config.exe'.
+[2024-12-21T16:16:34] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T16:16:47] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\Windows\explorer.exe'.
+[2024-12-21T16:16:47] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T16:17:36] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\Program Files (x86)\Stardock\Start11\Start11Config.exe'.
+[2024-12-21T16:17:36] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T16:17:47] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\Windows\explorer.exe'.
+[2024-12-21T16:17:47] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T16:59:04] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\Program Files (x86)\Stardock\Start11\Start11Config.exe'.
+[2024-12-21T16:59:04] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T17:02:36] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\WINDOWS\Explorer.EXE'.
+[2024-12-21T17:02:36] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T17:24:26] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\WINDOWS\Explorer.EXE'.
+[2024-12-21T17:24:26] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T17:56:10] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\WINDOWS\explorer.exe'.
+[2024-12-21T17:56:10] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T17:57:04] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\WINDOWS\Explorer.EXE'.
+[2024-12-21T17:57:04] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T17:57:08] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\WINDOWS\explorer.exe'.
+[2024-12-21T17:57:08] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T18:00:06] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\WINDOWS\Explorer.EXE'.
+[2024-12-21T18:00:06] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T19:10:34] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\Program Files (x86)\Stardock\Start11\Start11Config.exe'.
+[2024-12-21T19:10:34] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T19:11:00] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\Windows\explorer.exe'.
+[2024-12-21T19:11:00] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T19:11:28] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\WINDOWS\Explorer.EXE'.
+[2024-12-21T19:11:28] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T19:11:40] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\Windows\explorer.exe'.
+[2024-12-21T19:11:40] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T19:15:23] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\WINDOWS\Explorer.EXE'.
+[2024-12-21T19:15:23] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T19:20:37] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\WINDOWS\explorer.exe'.
+[2024-12-21T19:20:37] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T19:21:32] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\Program Files (x86)\Stardock\Start11\Start11Config.exe'.
+[2024-12-21T19:21:32] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T19:21:47] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\Windows\explorer.exe'.
+[2024-12-21T19:21:48] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T19:21:56] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\Windows\explorer.exe'.
+[2024-12-21T19:21:56] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T19:23:45] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\Windows\explorer.exe'.
+[2024-12-21T19:23:45] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T19:24:41] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\WINDOWS\explorer.exe'.
+[2024-12-21T19:24:41] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T21:09:36] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\WINDOWS\explorer.exe'.
+[2024-12-21T21:09:36] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T21:10:13] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\WINDOWS\Explorer.EXE'.
+[2024-12-21T21:10:13] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T21:10:16] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\WINDOWS\explorer.exe'.
+[2024-12-21T21:10:16] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T21:41:48] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\Program Files (x86)\Stardock\Start11\Start11Config.exe'.
+[2024-12-21T21:41:48] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T22:02:37] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\Program Files (x86)\Stardock\Start11\Start11Config.exe'.
+[2024-12-21T22:02:37] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T22:10:02] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\WINDOWS\Explorer.EXE'.
+[2024-12-21T22:10:02] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T23:01:51] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\WINDOWS\Explorer.EXE'.
+[2024-12-21T23:01:51] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
+[2024-12-21T23:14:31] Info    : Initialize: Product ID '2674', Product Name 'Start11', Version '2.1.1.0', Company Name 'Stardock', Process Name 'C:\WINDOWS\Explorer.EXE'.
+[2024-12-21T23:14:31] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Start11\Default.spak', Version '0'.
