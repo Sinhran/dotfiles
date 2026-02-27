@@ -1,0 +1,4 @@
+2026-02-27 09:52:25.331 [info] Started local extension host with pid 1610.
+2026-02-27 09:52:25.345 [info] Started initializing default profile extensions in extensions installation folder. file:///home/engel/.vscode-oss/extensions
+2026-02-27 09:52:25.448 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/engel/.vscode-oss/extensions
+2026-02-27 09:52:28.211 [info] [perf] Render performance baseline is 16ms

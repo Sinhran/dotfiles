@@ -1,0 +1,15 @@
+2026/01/19-23:40:55.746 1eb6a Reusing MANIFEST /home/engel/.config/equibop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2026/01/19-23:40:55.749 1eb6a Recovering log #156
+2026/01/19-23:40:55.750 1eb6a Reusing old log /home/engel/.config/equibop/sessionData/Local Storage/leveldb/000156.log 
+2026/01/19-23:42:55.875 1eb8a Level-0 table #160: started
+2026/01/19-23:42:55.876 1eb8a Level-0 table #160: 58067 bytes OK
+2026/01/19-23:42:55.877 1eb8a Delete type=0 #156
+2026/01/19-23:42:55.877 1eb8a Compacting 4@0 + 1@1 files
+2026/01/19-23:42:55.878 1eb8a Generated table #161@0: 42 keys, 48425 bytes
+2026/01/19-23:42:55.878 1eb8a Compacted 4@0 + 1@1 files => 48425 bytes
+2026/01/19-23:42:55.879 1eb8a compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/19-23:42:55.879 1eb8a Delete type=2 #151
+2026/01/19-23:42:55.879 1eb8a Delete type=2 #153
+2026/01/19-23:42:55.879 1eb8a Delete type=2 #157
+2026/01/19-23:42:55.879 1eb8a Delete type=2 #160
+2026/01/19-23:42:55.879 1eb8a Delete type=2 #155

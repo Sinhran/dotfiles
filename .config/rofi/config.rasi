@@ -28,7 +28,7 @@ configuration {
    }
 }
 
-@theme "~/.config/rofi/themes/theme.rasi"
+//@theme "~/.config/rofi/themes/theme.rasi"
 
 
 // Main //
@@ -156,3 +156,5 @@ element-text {
     text-color:                  inherit;
 }
 
+
+@theme "/usr/share/rofi/themes/gruvbox-dark.rasi"

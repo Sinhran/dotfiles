@@ -1,0 +1,95 @@
+Mon Jan 19 07:12:32 PM IST 2026 INFO - loadLangFile - Language from command line is 'english'
+Mon Jan 19 07:12:32 PM IST 2026 INFO - loadLangFile - GLOBALSTLLANGDIR is '/usr/share/steamtinkerlaunch/lang'
+Mon Jan 19 07:12:32 PM IST 2026 INFO - loadLangFile - Command line language 'english' is no file - trying to find its absolute path
+Mon Jan 19 07:12:32 PM IST 2026 INFO - loadLangFile - Loading found system wide /usr/share/steamtinkerlaunch/lang/english.txt
+Mon Jan 19 07:12:32 PM IST 2026 INFO - getCurrentCommandline - No Proton in command line arguments 'vortex install gui'
+Mon Jan 19 07:12:32 PM IST 2026 INFO - saveOrgVars - Storing some original variables to restore them later
+Mon Jan 19 07:12:32 PM IST 2026 INFO - emptyVars - Emptied some original variables as they slowdown several system calls when started from steam
+Mon Jan 19 07:12:32 PM IST 2026 INFO - emptyVars - Set $PATH to '/usr/local/sbin:/usr/local/bin:/usr/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:::'
+Mon Jan 19 07:12:32 PM IST 2026 START - ######### Initializing Game Launch 31337 using SteamTinkerLaunch v12.12 #########
+Mon Jan 19 07:12:32 PM IST 2026 INFO - main - Starting with a clean log
+Mon Jan 19 07:12:32 PM IST 2026 INFO - main - Start creating default configs
+Mon Jan 19 07:12:32 PM IST 2026 INFO - createDefaultCfgs - START
+Mon Jan 19 07:12:32 PM IST 2026 INFO - loadLanguage - First load the default language 'english' to make sure all variables are filled
+Mon Jan 19 07:12:32 PM IST 2026 INFO - loadLangFile - Language from command line is 'english'
+Mon Jan 19 07:12:32 PM IST 2026 INFO - loadLangFile - GLOBALSTLLANGDIR is '/usr/share/steamtinkerlaunch/lang'
+Mon Jan 19 07:12:32 PM IST 2026 INFO - loadLangFile - Command line language 'english' is no file - trying to find its absolute path
+Mon Jan 19 07:12:32 PM IST 2026 INFO - loadLangFile - Loading found system wide /usr/share/steamtinkerlaunch/lang/english.txt
+Mon Jan 19 07:12:32 PM IST 2026 INFO - loadLanguage - Loading STLLANG from '/home/engel/.config/steamtinkerlaunch/global.conf'
+Mon Jan 19 07:12:32 PM IST 2026 INFO - loadLanguage - STLLANG from '/home/engel/.config/steamtinkerlaunch/global.conf' is 'english'
+Mon Jan 19 07:12:32 PM IST 2026 INFO - createDefaultCfgs - setSteamPaths:
+Mon Jan 19 07:12:32 PM IST 2026 INFO - setSteamPaths - Reading Steam Path variables from '/dev/shm/steamtinkerlaunch/steampaths.txt'
+Mon Jan 19 07:12:33 PM IST 2026 SKIP - updateWinRes - Timeout waiting for Window 'SteamTinkerLaunch-VortexOptions'
+Mon Jan 19 07:12:33 PM IST 2026 INFO - getGameOS - Starting game OS detection
+Mon Jan 19 07:12:33 PM IST 2026 INFO - getGameOS - STEAM_COMPAT_DATA_PATH is not defined, so this is either a Linux Game or no game was started at all
+Mon Jan 19 07:12:33 PM IST 2026 INFO - listAllSettingsEntries - '/dev/shm/steamtinkerlaunch/setentries.txt' already exists - nothing to do
+Mon Jan 19 07:12:33 PM IST 2026 INFO - createDefaultCfgs - STOP
+Mon Jan 19 07:12:33 PM IST 2026 SKIP - listSteamLibraries - not recreating already available '/dev/shm/steamtinkerlaunch/SteamLibraries.txt'
+Mon Jan 19 07:12:33 PM IST 2026 INFO - setSteamLibraryPaths - STEAM_COMPAT_LIBRARY_PATHS set to '/home/engel/.local/share/Steam/steamapps'
+Mon Jan 19 07:12:33 PM IST 2026 INFO - setSteamLibraryPaths - STEAM_COMPAT_MOUNTS set to '/home/engel/.local/share/Steam/steamapps/common/Steamworks Shared:/home/engel/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'
+Mon Jan 19 07:12:33 PM IST 2026 INFO - setSteamLibraryPaths - STEAM_COMPAT_TOOL_PATHS set to '/home/engel/.local/share/Steam/steamapps/common/Steamworks Shared:/home/engel/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'
+Mon Jan 19 07:12:33 PM IST 2026 INFO - main - Checking internal dependencies:
+Mon Jan 19 07:12:33 PM IST 2026 INFO - checkIntDeps - Result of version check for yad binary '/usr/bin/yad' is '14.2'
+Mon Jan 19 07:12:33 PM IST 2026 INFO - main - Initializing first Proton:
+Mon Jan 19 07:12:33 PM IST 2026 INFO - initOldProtonArr - Creating an initial array with available Proton versions using the file '/dev/shm/steamtinkerlaunch/ProtonCSV.txt' which was created during a previous run
+Mon Jan 19 07:12:33 PM IST 2026 INFO - initFirstProton - Initializing Proton
+Mon Jan 19 07:12:33 PM IST 2026 INFO - initFirstProton - Initial Proton version 'FIRSTUSEPROTON' from '/home/engel/.config/steamtinkerlaunch/default_template.conf' is 'proton-9.0-4f'
+Mon Jan 19 07:12:33 PM IST 2026 INFO - main - Initializing default window resolution
+Mon Jan 19 07:12:33 PM IST 2026 INFO - setInitWinXY - Using '1440x810' from config '/dev/shm/steamtinkerlaunch/defres.txt'
+Mon Jan 19 07:12:33 PM IST 2026 INFO - main - Welcome to SteamTinkerLaunch
+Mon Jan 19 07:12:33 PM IST 2026 INFO - removeEmptyFiles - Removing empty files from '/home/engel/.config/steamtinkerlaunch/games/appinfo'
+Mon Jan 19 07:12:33 PM IST 2026 INFO - removeEmptyFiles - Removing empty files from '/home/engel/.config/steamtinkerlaunch/games/header'
+Mon Jan 19 07:12:33 PM IST 2026 INFO - main - Checking command line: incoming arguments 'vortex install gui'
+Mon Jan 19 07:12:33 PM IST 2026 INFO - getRes - Detected screen resolution '1920x1080'
+Mon Jan 19 07:12:33 PM IST 2026 INFO - pollWinRes - Using GEOM '--geometry=945x647+0+0' from '/usr/share/steamtinkerlaunch/guicfgs/1920x1080/template/SteamTinkerLaunch-installVortexGui.conf'
+Mon Jan 19 07:12:33 PM IST 2026 INFO - updateWinRes - Starting resolution-poll for '/home/engel/.config/steamtinkerlaunch/guicfgs/1920x1080/31337/SteamTinkerLaunch-installVortexGui.conf' with incoming '945x647'
+Mon Jan 19 07:12:33 PM IST 2026 INFO - setShowPic - Determining game picture
+Mon Jan 19 07:12:33 PM IST 2026 INFO - setShowPic - Using '/dev/shm/steamtinkerlaunch/steamtinkerlaunch-steam-checked.png' as fallback picture, because '/home/engel/.config/steamtinkerlaunch/games/header/31337.jpg' doesn't exist
+Mon Jan 19 07:12:33 PM IST 2026 INFO - updateWinRes - Waiting for Window 'SteamTinkerLaunch-installVortexGui'
+Mon Jan 19 07:12:33 PM IST 2026 INFO - getLatestVortVer - Search for latest Vortex stable Release
+Mon Jan 19 07:12:33 PM IST 2026 INFO - getLatestVortVer - Found 'vortex-setup-1.16.0-beta.3.exe'
+Mon Jan 19 07:12:34 PM IST 2026 INFO - updateWinRes - Waiting for Window 'SteamTinkerLaunch-installVortexGui'
+Mon Jan 19 07:12:34 PM IST 2026 INFO - VortexOptions - Selected 'DONE' - Closing Menu
+Mon Jan 19 07:12:35 PM IST 2026 INFO - updateWinRes - Waiting for Window 'SteamTinkerLaunch-installVortexGui'
+Mon Jan 19 07:12:36 PM IST 2026 INFO - VortexOptions - Selected 'DONE' - Closing Menu
+Mon Jan 19 07:12:36 PM IST 2026 INFO - getLatestVortVer - Found 'vortex-setup-1.16.0-beta.3.exe'
+Mon Jan 19 07:12:36 PM IST 2026 SKIP - updateWinRes - Timeout waiting for Window 'SteamTinkerLaunch-installVortexGui'
+Mon Jan 19 07:12:40 PM IST 2026 INFO - VortexOptions - Selected 'DONE' - Closing Menu
+Mon Jan 19 07:12:41 PM IST 2026 INFO - VortexOptions - Selected 'DONE' - Closing Menu
+Mon Jan 19 07:12:48 PM IST 2026 INFO - MainMenu - Clicked '6' - 'GAME MENU'
+Mon Jan 19 07:12:48 PM IST 2026 INFO - MainMenu - exiting 'Settings Menu' and opening 'Game Menu'
+Mon Jan 19 07:12:48 PM IST 2026 INFO - prepareMenu - Opening Menu
+Mon Jan 19 07:12:48 PM IST 2026 INFO - loadCfg - '/home/engel/.config/steamtinkerlaunch/global.conf' START
+Mon Jan 19 07:12:48 PM IST 2026 INFO - loadCfg - '/home/engel/.config/steamtinkerlaunch/global.conf' STOP
+Mon Jan 19 07:12:48 PM IST 2026 INFO - loadCfg - '/home/engel/.config/steamtinkerlaunch/gamecfgs/id/31337.conf' START
+Mon Jan 19 07:12:48 PM IST 2026 INFO - loadCfg - Loading game config '/home/engel/.config/steamtinkerlaunch/gamecfgs/id/31337.conf'
+Mon Jan 19 07:12:48 PM IST 2026 INFO - migrateCfgOption - File '/home/engel/.config/steamtinkerlaunch/dxvk/31337.conf' does not exist - nothing to do
+Mon Jan 19 07:12:48 PM IST 2026 INFO - loadCfg - '/home/engel/.config/steamtinkerlaunch/gamecfgs/id/31337.conf' STOP
+Mon Jan 19 07:12:48 PM IST 2026 INFO - loadCfg - '/home/engel/.config/steamtinkerlaunch/url.conf' START
+Mon Jan 19 07:12:48 PM IST 2026 INFO - loadCfg - '/home/engel/.config/steamtinkerlaunch/url.conf' STOP
+Mon Jan 19 07:12:48 PM IST 2026 UPDATE - updateConfigFile - Replacing '/home/engel/.config/steamtinkerlaunch' with 'STLCFGDIR' in '/home/engel/.config/steamtinkerlaunch/gamecfgs/id/31337.conf'
+Mon Jan 19 07:12:48 PM IST 2026 SKIP - updateConfigFile - Config file '/home/engel/.config/steamtinkerlaunch/gamecfgs/id/31337.conf' already at version 'v12.12'
+Mon Jan 19 07:12:48 PM IST 2026 INFO - linkGameCfg - Symlink '/home/engel/.config/steamtinkerlaunch/gamecfgs/title/Placeholder.conf' already exists
+Mon Jan 19 07:12:48 PM IST 2026 INFO - createWineList - Updating the Wine Dropdown List
+Mon Jan 19 07:12:48 PM IST 2026 SKIP - updateConfigFile - Config file '/home/engel/.config/steamtinkerlaunch/gamecfgs/id/31337.conf' already at version 'v12.12'
+Mon Jan 19 07:12:48 PM IST 2026 INFO - linkGameCfg - Symlink '/home/engel/.config/steamtinkerlaunch/gamecfgs/title/Placeholder.conf' already exists
+Mon Jan 19 07:12:48 PM IST 2026 INFO - createWineList - Updating the Wine Dropdown List
+Mon Jan 19 07:12:48 PM IST 2026 INFO - loadCfg - Loading game config '/home/engel/.config/steamtinkerlaunch/gamecfgs/id/31337.conf'
+Mon Jan 19 07:12:48 PM IST 2026 INFO - migrateCfgOption - File '/home/engel/.config/steamtinkerlaunch/dxvk/31337.conf' does not exist - nothing to do
+Mon Jan 19 07:12:48 PM IST 2026 INFO - getRes - Detected screen resolution '1920x1080'
+Mon Jan 19 07:12:48 PM IST 2026 INFO - pollWinRes - Using GEOM '--geometry=1114x723+0+0' from '/usr/share/steamtinkerlaunch/guicfgs/1920x1080/template/SteamTinkerLaunch-launchGameMenu.conf'
+Mon Jan 19 07:12:48 PM IST 2026 INFO - updateWinRes - Starting resolution-poll for '/home/engel/.config/steamtinkerlaunch/guicfgs/1920x1080/31337/SteamTinkerLaunch-launchGameMenu.conf' with incoming '1114x723'
+Mon Jan 19 07:12:48 PM IST 2026 INFO - openMenu - Starting createMenu "/dev/shm/steamtinkerlaunch/menutemp/gamemenu" "launchGameMenu" "/dev/shm/steamtinkerlaunch/steamtinkerlaunch-steam-checked.png" "EMPTY" "EMPTY" "Settings for game 'No Title found for '31337' (31337)'" "MainMenu" "MENU_GAME"
+Mon Jan 19 07:12:48 PM IST 2026 INFO - createMenu - got '9' elements: '0 /dev/shm/steamtinkerlaunch/menutemp/gamemenu launchGameMenu /dev/shm/steamtinkerlaunch/steamtinkerlaunch-steam-checked.png EMPTY EMPTY Settings for game 'No Title found for '31337' (31337)' MainMenu MENU_GAME'
+Mon Jan 19 07:12:48 PM IST 2026 INFO - updateWinRes - Waiting for Window 'SteamTinkerLaunch-launchGameMenu'
+Mon Jan 19 07:12:48 PM IST 2026 INFO - createMenu - Creating menu template '/dev/shm/steamtinkerlaunch/menutemp/gamemenu-template'
+Mon Jan 19 07:12:48 PM IST 2026 INFO - getFilteredEntries - No blocked elements found in '/home/engel/.config/steamtinkerlaunch/menublock.conf' - working with '/dev/shm/steamtinkerlaunch/rawentries.txt'
+Mon Jan 19 07:12:48 PM IST 2026 INFO - getFilteredEntries - '/home/engel/.config/steamtinkerlaunch/menusort.conf' missing - creating a default one
+Mon Jan 19 07:12:48 PM IST 2026 INFO - getFilteredEntries - Sort config '/home/engel/.config/steamtinkerlaunch/menusort.conf' found - sorting
+Mon Jan 19 07:12:48 PM IST 2026 INFO - openMenu - Currently used tempfile is '/dev/shm/steamtinkerlaunch/menu.C9JYNIrK'
+Mon Jan 19 07:12:49 PM IST 2026 INFO - updateWinRes - Waiting for Window 'SteamTinkerLaunch-launchGameMenu'
+Mon Jan 19 07:12:50 PM IST 2026 INFO - updateWinRes - Waiting for Window 'SteamTinkerLaunch-launchGameMenu'
+Mon Jan 19 07:12:51 PM IST 2026 SKIP - updateWinRes - Timeout waiting for Window 'SteamTinkerLaunch-launchGameMenu'
+Mon Jan 19 07:12:53 PM IST 2026 INFO - goBackToPrevFunction - 'MainMenu' closed
+Mon Jan 19 07:12:53 PM IST 2026 INFO - startSettings - cleanYadLeftOvers:
+Mon Jan 19 07:12:53 PM IST 2026 INFO - closeTrayIcon - Closing TrayIcon '13226'

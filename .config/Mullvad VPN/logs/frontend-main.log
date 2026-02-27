@@ -1,0 +1,11 @@
+[2026-01-21 14:51:24.355][verbose] Chromium sandbox is enabled
+[2026-01-21 14:51:24.356][info] Running version 2025.10
+[2026-01-21 14:51:24.507][info] Detected locale: en-US
+[2026-01-21 14:51:24.584][info] Verified socket ownership
+[2026-01-21 14:51:24.584][info] Connected to the daemon
+[2026-01-21 14:51:24.758][info] Skip autoconnect because GUI setting is disabled
+[2026-01-21 14:51:24.870][error] Failed to check autostart file: ENOENT: no such file or directory, access '/home/engel/.config/autostart/mullvad-vpn.desktop'
+[2026-01-21 15:30:25.251][verbose] GRPC Channel connectivity state changed to 0
+[2026-01-21 15:30:25.252][info] Disconnected from the daemon
+[2026-01-21 15:30:25.277][info] before-quit received
+[2026-01-21 15:30:25.278][info] Quit initiated

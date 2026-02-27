@@ -1,0 +1,13 @@
+[Configure]
+Height 1080=445
+Width 1920=595
+
+[Global]
+Soundmenu.Mixers=PulseAudio::Playback_Devices:1,alsa_output.pci-0000_01_00.1.hdmi-stereo,PulseAudio::Capture_Devices:1,PulseAudio::Playback_Streams:1,PulseAudio::Capture_Streams:1
+
+[SystemTray]
+000=PulseAudio::Playback_Devices:1,1,audio-card,Playback Devices
+001=alsa_output.pci-0000_01_00.1.hdmi-stereo,1,audio-card
+002=PulseAudio::Capture_Devices:1,1,media-playback-start,Capture Devices
+003=PulseAudio::Playback_Streams:1,1,media-playback-start,Playback Streams
+004=PulseAudio::Capture_Streams:1,1,media-playback-start,Capture Streams

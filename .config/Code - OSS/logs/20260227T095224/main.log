@@ -1,0 +1,13 @@
+2026-02-27 09:52:24.429 [error] Error: Unable to retrieve mac address (unexpected format)
+    at jD (file:///usr/lib/code/out/main.js:65:5233)
+    at HD (file:///usr/lib/code/out/main.js:65:5610)
+    at async file:///usr/lib/code/out/main.js:65:5527
+    at async JA (file:///usr/lib/code/out/main.js:92:105711)
+    at async ZA (file:///usr/lib/code/out/main.js:92:106117)
+    at async Promise.all (index 0)
+    at async id.startup (file:///usr/lib/code/out/main.js:145:6844)
+    at async q2.a (file:///usr/lib/code/out/main.js:176:43369)
+2026-02-27 09:52:24.468 [info] update#setState disabled
+2026-02-27 09:52:24.468 [info] update#ctor - updates are disabled as there is no update URL
+2026-02-27 09:52:28.480 [info] Extension host with pid 1610 exited with code: 0, signal: unknown.
+2026-02-27 09:52:28.520 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 1581]: crashed with code 15 and reason 'killed'

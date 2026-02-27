@@ -1,0 +1,12 @@
+[Libinput][1008][27201][PixArt HP USB Optical Mouse]
+NaturalScroll=true
+
+[Libinput][1241][41421][HT CB-GK-16 Firefly Consumer Control]
+NaturalScroll=true
+
+[Libinput][1739][52861][SYNA32C8:00 06CB:CE7D Touchpad]
+NaturalScroll=true
+
+[Mouse]
+X11LibInputXAccelProfileFlat=true
+XLbInptNaturalScroll=true

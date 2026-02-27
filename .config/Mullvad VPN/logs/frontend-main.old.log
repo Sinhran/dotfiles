@@ -1,0 +1,19 @@
+[2026-01-19 22:32:33.579][verbose] Chromium sandbox is enabled
+[2026-01-19 22:32:33.580][info] Running version 2025.10
+[2026-01-19 22:32:33.653][info] Detected locale: en-US
+[2026-01-19 22:32:33.735][info] Verified socket ownership
+[2026-01-19 22:32:33.736][info] Connected to the daemon
+[2026-01-19 22:32:33.803][info] Skip autoconnect because GUI setting is disabled
+[2026-01-19 22:32:33.913][error] Failed to check autostart file: ENOENT: no such file or directory, access '/home/engel/.config/autostart/mullvad-vpn.desktop'
+[2026-01-19 22:37:27.412][warning] Failed to fetch account data. Retrying in 8000 ms
+[2026-01-19 22:37:35.755][warning] Failed to fetch account data. Retrying in 16000 ms
+[2026-01-19 22:37:51.818][warning] Failed to fetch account data. Retrying in 16000 ms
+[2026-01-19 22:38:29.148][warning] Failed to fetch account data. Retrying in 8000 ms
+[2026-01-19 23:17:51.755][warning] Failed to fetch account data. Retrying in 8000 ms
+[2026-01-19 23:32:33.744][verbose] GRPC Channel connectivity state changed to 2
+[2026-01-19 23:37:19.248][warning] Failed to fetch account data. Retrying in 8000 ms
+[2026-01-19 23:37:35.315][warning] Failed to fetch account data. Retrying in 16000 ms
+[2026-01-19 23:44:57.561][info] before-quit received
+[2026-01-19 23:44:57.562][info] Quit initiated
+[2026-01-19 23:44:57.562][info] Unsubscribed from the daemon events
+[2026-01-19 23:44:57.562][verbose] GRPC Channel connectivity state changed to 4
