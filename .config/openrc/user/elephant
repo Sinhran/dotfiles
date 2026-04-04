@@ -1,0 +1,27 @@
+#!/bin/sh
+# Elephant - OpenRC user service
+
+name="elephant"
+command="/usr/bin/elephant"
+command_background="yes"
+output_log="/home/engel/.local/share/elephant.log"
+error_log="/home/engel/.local/share/elephant-error.log"
+pidfile="/home/engel/.local/share/elephant.pid"
+
+depend() {
+    need display-manager
+}
+
+start() {
+    ebegin "Starting Elephant"
+    start-stop-daemon --start --pidfile "${pidfile}" --make-pidfile --background \
+        --stdout "${output_log}" --stderr "${error_log}" \
+        --exec ${command}
+    eend $?
+}
+
+stop() {
+    ebegin "Stopping Elephant"
+    start-stop-daemon --stop --pidfile "${pidfile}" --remove-pidfile
+    eend $?
+}

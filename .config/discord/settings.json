@@ -1,0 +1,21 @@
+{
+  "openH264Enabled": true,
+  "BACKGROUND_COLOR": "#000000",
+  "offloadAdmControls": true,
+  "chromiumSwitches": {},
+  "IS_MAXIMIZED": false,
+  "IS_MINIMIZED": false,
+  "WINDOW_BOUNDS": {
+    "x": 2,
+    "y": 32,
+    "width": 956,
+    "height": 1046
+  },
+  "DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true,
+  "openasar": {
+    "setup": true,
+    "quickstart": true
+  },
+  "trayBalloonShown": true,
+  "MINIMIZE_TO_TRAY": false
+}

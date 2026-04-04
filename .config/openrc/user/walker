@@ -1,0 +1,28 @@
+#!/bin/sh
+# Walker - OpenRC user service
+
+name="walker"
+command="/usr/bin/walker"
+command_args="--gapplication-service"
+command_background="yes"
+output_log="/home/engel/.local/share/walker.log"
+error_log="/home/engel/.local/share/walker-error.log"
+pidfile="/home/engel/.local/share/walker.pid"
+
+depend() {
+    need display-manager
+}
+
+start() {
+    ebegin "Starting Walker"
+    start-stop-daemon --start --pidfile "${pidfile}" --make-pidfile --background \
+        --stdout "${output_log}" --stderr "${error_log}" \
+        --exec ${command} -- ${command_args}
+    eend $?
+}
+
+stop() {
+    ebegin "Stopping Walker"
+    start-stop-daemon --stop --pidfile "${pidfile}" --remove-pidfile
+    eend $?
+}

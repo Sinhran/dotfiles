@@ -1,0 +1,31 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "provider": {
+    "lmstudio-beta": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "LM Studio Beta",
+      "options": {
+        "baseURL": "http://127.0.0.1:1234/v1",
+        "apiKey": "not-needed"
+      },
+      "models": {
+        "poe-8b-glm5-opus4.6-sonnet4.5-kimi-grok-gemini-3-pro-preview-heretic-i1": {
+          "name": "Poe 8b",
+          "attachment": true,
+          "modalities": {
+            "input": ["text"],
+            "output": ["text"]
+          }
+        },
+        "glm-4.7-flash-claude-opus-4.5-high-reasoning-distill": {
+          "name": "GLM 4.7 Flash Trained",
+          "attachment": true,
+          "modalities": {
+            "input": ["text"],
+            "output": ["text"]
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+# Ghostty Configuration - NERV/Amber Theme
+# Black background with amber text
+
+# Background and foreground colors
+background = #000000
+foreground = #FFB000
+
+# Selection colors
+selection-foreground = #000000
+selection-background = #FFB000
+
+# Cursor colors
+cursor-color = #FF4B4B
+cursor-style = block
+
+# Font - JetBrainsMono Nerd Font
+font-family = JetBrainsMono Nerd Font
+font-size = 12
+
+# Theme
+
+# Performance
+shell-integration-features = no-title
+
+# Keybindings
+keybind = ctrl+shift+v=paste_from_clipboard

@@ -1,0 +1,16 @@
+# cliphist Configuration
+
+# Database path
+db-path = "$XDG_DATA_HOME/cliphist/db.sqlite"
+
+# Maximum number of items to store
+max-items = 1000
+
+# Maximum item size in bytes (1MB default)
+max-item-size = 1048576
+
+# Clear database on startup (useful for testing)
+# clear-on-startup = false
+
+# Enable persistent storage
+persistent = true

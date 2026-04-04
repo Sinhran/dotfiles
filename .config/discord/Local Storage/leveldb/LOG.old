@@ -1,0 +1,19 @@
+2026/04/04-13:58:34.444 6a3 Reusing MANIFEST /home/engel/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2026/04/04-13:58:34.446 6a3 Recovering log #205
+2026/04/04-13:58:34.446 6a3 Level-0 table #207: started
+2026/04/04-13:58:34.447 6a3 Level-0 table #207: 29375 bytes OK
+2026/04/04-13:58:34.447 6a3 Recovering log #207
+2026/04/04-13:58:34.447 6a3 Reusing old log /home/engel/.config/discord/Local Storage/leveldb/000207.log 
+2026/04/04-13:58:34.448 6a3 Delete type=0 #205
+2026/04/04-13:58:34.448 6a3 Delete type=2 #208
+2026/04/04-13:58:34.448 6a4 Compacting 4@0 + 2@1 files
+2026/04/04-13:58:34.481 6a4 Generated table #208@0: 35 keys, 4505114 bytes
+2026/04/04-13:58:34.513 6a4 Generated table #209@0: 84 keys, 4505931 bytes
+2026/04/04-13:58:34.513 6a4 Compacted 4@0 + 2@1 files => 9011045 bytes
+2026/04/04-13:58:34.514 6a4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2026/04/04-13:58:34.514 6a4 Delete type=2 #195
+2026/04/04-13:58:34.514 6a4 Delete type=2 #207
+2026/04/04-13:58:34.514 6a4 Delete type=2 #198
+2026/04/04-13:58:34.514 6a4 Delete type=2 #201
+2026/04/04-13:58:34.514 6a4 Delete type=2 #204
+2026/04/04-13:58:34.514 6a4 Delete type=2 #196

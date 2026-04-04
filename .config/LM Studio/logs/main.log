@@ -1,0 +1,847 @@
+[2026-03-24 23:53:08.575] [info]  App starting...
+[2026-03-24 23:53:08.576] [info]  [AppUpdater] Update channel set to 'stable'
+[2026-03-24 23:53:08.665] [info]  Hardware survey for general system resources through 'vulkan' took 86.26ms
+[2026-03-24 23:53:08.729] [info]  [AppUpdater] Checking for updates... (current state: idle)
+[2026-03-24 23:53:08.730] [info]  AppUpdater state changed to checking-for-updates-periodic
+[2026-03-24 23:53:08.730] [info]  [AppUpdater] Fetching version info from https://versions-prod.lmstudio.ai/update/linux/x86/0.3.32
+[2026-03-24 23:53:09.092] [info]  [AppUpdater] Received version info response
+[2026-03-24 23:53:09.092] [info]  [AppUpdater] Current version: 0.3.32 (build: 1), new version: 0.4.7 (build: 4)
+[2026-03-24 23:53:09.092] [info]  Update available: 0.4.7 > 0.3.32
+[2026-03-24 23:53:09.092] [info]  AppUpdater state changed to update-available
+[2026-03-24 23:54:16.464] [info]  AppUpdater state changed to remind-me-later
+[2026-03-24 23:57:48.065] [error] [DownloadsManager] Transfer error Error: Timed-out. Please try to resume.
+    at TLSSocket.<anonymous> (/tmp/.mount_lmstud1KdCrH/resources/app/.webpack/main/index.js:306:16174)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+[2026-03-24 23:57:48.109] [error] [DownloadsManager] Transfer error Error: Timed-out. Please try to resume.
+    at TLSSocket.<anonymous> (/tmp/.mount_lmstud1KdCrH/resources/app/.webpack/main/index.js:306:16174)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+[2026-03-24 23:57:48.111] [error] [DownloadsManager] Transfer error Error: Timed-out. Please try to resume.
+    at TLSSocket.<anonymous> (/tmp/.mount_lmstud1KdCrH/resources/app/.webpack/main/index.js:306:16174)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+[2026-03-24 23:57:48.117] [error] [DownloadsManager] Transfer error Error: Timed-out. Please try to resume.
+    at TLSSocket.<anonymous> (/tmp/.mount_lmstud1KdCrH/resources/app/.webpack/main/index.js:306:16174)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+[2026-03-24 23:57:48.120] [error] [DownloadsManager] Transfer error Error: Timed-out. Please try to resume.
+    at TLSSocket.<anonymous> (/tmp/.mount_lmstud1KdCrH/resources/app/.webpack/main/index.js:306:16174)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+[2026-03-24 23:57:48.123] [error] [DownloadsManager] Transfer error Error: Timed-out. Please try to resume.
+    at TLSSocket.<anonymous> (/tmp/.mount_lmstud1KdCrH/resources/app/.webpack/main/index.js:306:16174)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+[2026-03-24 23:57:48.124] [error] [DownloadsManager] Transfer error Error: Timed-out. Please try to resume.
+    at TLSSocket.<anonymous> (/tmp/.mount_lmstud1KdCrH/resources/app/.webpack/main/index.js:306:16174)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+[2026-03-24 23:57:48.134] [error] [DownloadsManager] Transfer error Error: Timed-out. Please try to resume.
+    at TLSSocket.<anonymous> (/tmp/.mount_lmstud1KdCrH/resources/app/.webpack/main/index.js:306:16174)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+[2026-03-24 23:57:48.144] [error] [DownloadsManager] Transfer error Error: Timed-out. Please try to resume.
+    at TLSSocket.<anonymous> (/tmp/.mount_lmstud1KdCrH/resources/app/.webpack/main/index.js:306:16174)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+[2026-03-24 23:57:48.144] [error] [DownloadsManager] Transfer error Error: Timed-out. Please try to resume.
+    at TLSSocket.<anonymous> (/tmp/.mount_lmstud1KdCrH/resources/app/.webpack/main/index.js:306:16174)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+[2026-03-25 00:02:19.507] [error] (node:25922) [DEP0147] DeprecationWarning: In future versions of Node.js, fs.rmdir(path, { recursive: true }) will be removed. Use fs.rm(path, { recursive: true }) instead
+(Use `lm-studio --trace-deprecation ...` to show where the warning was created)
+[2026-03-25 00:04:22.673] [error] [DownloadsManager] Transfer error Error: Timed-out. Please try to resume.
+    at TLSSocket.<anonymous> (/tmp/.mount_lmstud1KdCrH/resources/app/.webpack/main/index.js:306:16174)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+[2026-03-25 00:04:26.270] [error] [DownloadsManager] Transfer error Error: Timed-out. Please try to resume.
+    at TLSSocket.<anonymous> (/tmp/.mount_lmstud1KdCrH/resources/app/.webpack/main/index.js:306:16174)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+[2026-03-25 00:04:26.286] [error] [DownloadsManager] Transfer error Error: Timed-out. Please try to resume.
+    at TLSSocket.<anonymous> (/tmp/.mount_lmstud1KdCrH/resources/app/.webpack/main/index.js:306:16174)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+[2026-03-25 00:04:26.289] [error] [DownloadsManager] Transfer error Error: Timed-out. Please try to resume.
+    at TLSSocket.<anonymous> (/tmp/.mount_lmstud1KdCrH/resources/app/.webpack/main/index.js:306:16174)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+[2026-03-25 00:04:26.299] [error] [DownloadsManager] Transfer error Error: Timed-out. Please try to resume.
+    at TLSSocket.<anonymous> (/tmp/.mount_lmstud1KdCrH/resources/app/.webpack/main/index.js:306:16174)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+[2026-03-25 00:04:26.309] [error] [DownloadsManager] Transfer error Error: Timed-out. Please try to resume.
+    at TLSSocket.<anonymous> (/tmp/.mount_lmstud1KdCrH/resources/app/.webpack/main/index.js:306:16174)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+[2026-03-25 00:04:28.470] [error] [DownloadsManager] Transfer error Error: Timed-out. Please try to resume.
+    at TLSSocket.<anonymous> (/tmp/.mount_lmstud1KdCrH/resources/app/.webpack/main/index.js:306:16174)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+[2026-03-25 00:04:28.471] [error] [DownloadsManager] Transfer error Error: Timed-out. Please try to resume.
+    at TLSSocket.<anonymous> (/tmp/.mount_lmstud1KdCrH/resources/app/.webpack/main/index.js:306:16174)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+[2026-03-25 00:04:28.572] [error] [DownloadsManager] Transfer error Error: Timed-out. Please try to resume.
+    at TLSSocket.<anonymous> (/tmp/.mount_lmstud1KdCrH/resources/app/.webpack/main/index.js:306:16174)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+[2026-03-25 00:04:28.573] [error] [DownloadsManager] Transfer error Error: Timed-out. Please try to resume.
+    at TLSSocket.<anonymous> (/tmp/.mount_lmstud1KdCrH/resources/app/.webpack/main/index.js:306:16174)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+[2026-03-25 00:05:39.518] [error] [DownloadsManager] Transfer error Error: Timed-out. Please try to resume.
+    at TLSSocket.<anonymous> (/tmp/.mount_lmstud1KdCrH/resources/app/.webpack/main/index.js:306:16174)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+[2026-03-25 05:54:16.466] [info]  [AppUpdater] Checking for updates... (current state: remind-me-later)
+[2026-03-25 05:54:16.467] [info]  AppUpdater state changed to checking-for-updates-periodic
+[2026-03-25 05:54:16.467] [info]  [AppUpdater] Fetching version info from https://versions-prod.lmstudio.ai/update/linux/x86/0.3.32
+[2026-03-25 05:54:16.469] [error] Error fetching updates: fetch failed
+[2026-03-25 05:54:16.469] [info]  AppUpdater state changed to failed-to-check-for-updates
+[2026-03-25 05:54:16.469] [info]  AppUpdater state changed to idle
+[2026-03-25 05:54:31.470] [info]  [AppUpdater] Checking for updates... (current state: idle)
+[2026-03-25 05:54:31.470] [info]  AppUpdater state changed to checking-for-updates-periodic
+[2026-03-25 05:54:31.470] [info]  [AppUpdater] Fetching version info from https://versions-prod.lmstudio.ai/update/linux/x86/0.3.32
+[2026-03-25 05:54:31.471] [error] Error fetching updates: fetch failed
+[2026-03-25 05:54:31.471] [info]  AppUpdater state changed to failed-to-check-for-updates
+[2026-03-25 05:54:31.471] [info]  AppUpdater state changed to idle
+[2026-03-25 08:26:50.082] [error] [DownloadsManager] Transfer error AggregateError [ETIMEDOUT]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at internalConnectMultiple (node:net:1210:5)
+    at Timeout.internalConnectMultipleTimeout (node:net:1742:5)
+    at listOnTimeout (node:internal/timers:590:11)
+    at process.processTimers (node:internal/timers:523:7)
+[2026-03-25 08:27:30.118] [error] [DownloadsManager] Transfer error AggregateError [ETIMEDOUT]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at internalConnectMultiple (node:net:1210:5)
+    at Timeout.internalConnectMultipleTimeout (node:net:1742:5)
+    at listOnTimeout (node:internal/timers:590:11)
+    at process.processTimers (node:internal/timers:523:7)
+[2026-03-25 08:27:30.119] [error] [DownloadsManager] Transfer error AggregateError [ETIMEDOUT]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at internalConnectMultiple (node:net:1210:5)
+    at Timeout.internalConnectMultipleTimeout (node:net:1742:5)
+    at listOnTimeout (node:internal/timers:590:11)
+    at process.processTimers (node:internal/timers:523:7)
+[2026-03-25 08:31:12.627] [info]  App starting...
+[2026-03-25 08:31:12.629] [info]  [AppUpdater] Update channel set to 'stable'
+[2026-03-25 08:31:12.719] [info]  Hardware survey for general system resources through 'vulkan' took 88.33ms
+[2026-03-25 08:31:12.791] [info]  [AppUpdater] Checking for updates... (current state: idle)
+[2026-03-25 08:31:12.791] [info]  AppUpdater state changed to checking-for-updates-periodic
+[2026-03-25 08:31:12.791] [info]  [AppUpdater] Fetching version info from https://versions-prod.lmstudio.ai/update/linux/x86/0.3.32
+[2026-03-25 08:31:13.292] [info]  [AppUpdater] Received version info response
+[2026-03-25 08:31:13.293] [info]  [AppUpdater] Current version: 0.3.32 (build: 1), new version: 0.4.7 (build: 4)
+[2026-03-25 08:31:13.293] [info]  Update available: 0.4.7 > 0.3.32
+[2026-03-25 08:31:13.293] [info]  AppUpdater state changed to update-available
+[2026-03-25 21:06:39.826] [info]  App starting...
+[2026-03-25 21:06:39.827] [info]  [AppUpdater] Update channel set to 'stable'
+[2026-03-25 21:06:39.935] [info]  Hardware survey for general system resources through 'vulkan' took 105.06ms
+[2026-03-25 21:06:39.998] [info]  [AppUpdater] Checking for updates... (current state: idle)
+[2026-03-25 21:06:39.998] [info]  AppUpdater state changed to checking-for-updates-periodic
+[2026-03-25 21:06:39.998] [info]  [AppUpdater] Fetching version info from https://versions-prod.lmstudio.ai/update/linux/x86/0.3.32
+[2026-03-25 21:06:40.758] [info]  [AppUpdater] Received version info response
+[2026-03-25 21:06:40.758] [info]  [AppUpdater] Current version: 0.3.32 (build: 1), new version: 0.4.7 (build: 4)
+[2026-03-25 21:06:40.758] [info]  Update available: 0.4.7 > 0.3.32
+[2026-03-25 21:06:40.758] [info]  AppUpdater state changed to update-available
+[2026-03-25 23:52:19.437] [error] (node:19009) [DEP0147] DeprecationWarning: In future versions of Node.js, fs.rmdir(path, { recursive: true }) will be removed. Use fs.rm(path, { recursive: true }) instead
+(Use `lm-studio --trace-deprecation ...` to show where the warning was created)
+[2026-03-25 23:52:43.535] [error] [ArtifactResolutionProvider] Failed to resolve model download source {
+  type: 'huggingface',
+  user: 'lmstudio-community',
+  repo: 'GLM-4.7-Flash-GGUF'
+} TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at runNextTicks (node:internal/process/task_queues:69:3)
+    at listOnTimeout (node:internal/timers:549:9)
+    at process.processTimers (node:internal/timers:523:7)
+    at async _0x120b60 (/tmp/.mount_lmstud96fjKv/resources/app/.webpack/main/index.js:1:906531)
+    at async _0x2e66d8.listFiles (/tmp/.mount_lmstud96fjKv/resources/app/.webpack/main/index.js:1004:45662)
+    at async _0x206877.getModelDownloadOptionsWithConfigJson (/tmp/.mount_lmstud96fjKv/resources/app/.webpack/main/index.js:1007:16269)
+    at async _0x206877.getSupportedModelDownloadOptions (/tmp/.mount_lmstud96fjKv/resources/app/.webpack/main/index.js:1007:17152)
+    at async _0x540224.getModelDownloadOptionsFromDownloadSource (/tmp/.mount_lmstud96fjKv/resources/app/.webpack/main/index.js:510:20996)
+[2026-03-25 23:52:43.536] [error] [ArtifactResolutionProvider] Failed to resolve model download source {
+  type: 'huggingface',
+  user: 'lmstudio-community',
+  repo: 'GLM-4.7-Flash-MLX-6bit'
+} TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async _0x120b60 (/tmp/.mount_lmstud96fjKv/resources/app/.webpack/main/index.js:1:906531)
+    at async _0x2e66d8.listFiles (/tmp/.mount_lmstud96fjKv/resources/app/.webpack/main/index.js:1004:45662)
+    at async _0x206877.getModelDownloadOptionsWithConfigJson (/tmp/.mount_lmstud96fjKv/resources/app/.webpack/main/index.js:1007:16269)
+    at async _0x206877.getSupportedModelDownloadOptions (/tmp/.mount_lmstud96fjKv/resources/app/.webpack/main/index.js:1007:17152)
+    at async _0x540224.getModelDownloadOptionsFromDownloadSource (/tmp/.mount_lmstud96fjKv/resources/app/.webpack/main/index.js:510:20996)
+    at async /tmp/.mount_lmstud96fjKv/resources/app/.webpack/main/index.js:510:21687
+[2026-03-25 23:52:43.636] [error] [ArtifactResolutionProvider] Failed to resolve model download source {
+  type: 'huggingface',
+  user: 'lmstudio-community',
+  repo: 'GLM-4.7-Flash-MLX-8bit'
+} TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async _0x120b60 (/tmp/.mount_lmstud96fjKv/resources/app/.webpack/main/index.js:1:906531)
+    at async _0x2e66d8.listFiles (/tmp/.mount_lmstud96fjKv/resources/app/.webpack/main/index.js:1004:45662)
+    at async _0x206877.getModelDownloadOptionsWithConfigJson (/tmp/.mount_lmstud96fjKv/resources/app/.webpack/main/index.js:1007:16269)
+    at async _0x206877.getSupportedModelDownloadOptions (/tmp/.mount_lmstud96fjKv/resources/app/.webpack/main/index.js:1007:17152)
+    at async _0x540224.getModelDownloadOptionsFromDownloadSource (/tmp/.mount_lmstud96fjKv/resources/app/.webpack/main/index.js:510:20996)
+    at async /tmp/.mount_lmstud96fjKv/resources/app/.webpack/main/index.js:510:21687
+[2026-03-26 01:16:05.912] [info]  App starting...
+[2026-03-26 01:16:05.914] [info]  [AppUpdater] Update channel set to 'stable'
+[2026-03-26 01:16:06.012] [info]  Hardware survey for general system resources through 'vulkan' took 96.54ms
+[2026-03-26 01:16:06.085] [info]  [AppUpdater] Checking for updates... (current state: idle)
+[2026-03-26 01:16:06.085] [info]  AppUpdater state changed to checking-for-updates-periodic
+[2026-03-26 01:16:06.086] [info]  [AppUpdater] Fetching version info from https://versions-prod.lmstudio.ai/update/linux/x86/0.3.32
+[2026-03-26 01:16:07.015] [info]  [AppUpdater] Received version info response
+[2026-03-26 01:16:07.015] [info]  [AppUpdater] Current version: 0.3.32 (build: 1), new version: 0.4.7 (build: 4)
+[2026-03-26 01:16:07.015] [info]  Update available: 0.4.7 > 0.3.32
+[2026-03-26 01:16:07.015] [info]  AppUpdater state changed to update-available
+[2026-03-26 01:18:02.688] [error] (node:11324) [DEP0147] DeprecationWarning: In future versions of Node.js, fs.rmdir(path, { recursive: true }) will be removed. Use fs.rm(path, { recursive: true }) instead
+(Use `lm-studio --trace-deprecation ...` to show where the warning was created)
+[2026-03-26 01:21:55.069] [error] [LMSInternal][Client=LM Studio][Endpoint=loadModel] Error in channel handler: Error: Received load-error
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x157607._0x1ac457 (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:119:6597)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:213649)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:119:4033)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:212624)
+    at _0x4ff16d.emit (node:events:519:28)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:662:21157)
+    at ChildProcess.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+- Caused By: Error: Failed to load model
+    at _0x53e970.<computed>.load (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:85:15601)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async _0x5d16dc.loadModel (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:14772)
+    at async _0x5d16dc.handleMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:6285)
+[2026-03-26 01:21:55.070] [error] [LMSInternal][Client=LM Studio][Endpoint=loadModel] No instance reference assigned before error
+[2026-03-26 01:21:55.071] [error] [LMSInternal][Client=LM Studio][Endpoint=countTokens] Error in RPC handler: Error: Model is unloaded.
+    at /tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:119:3682
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2026-03-26 01:21:55.071] [error] [LMSInternal][Client=LM Studio][Endpoint=countTokens] Error in RPC handler: Error: Model is unloaded.
+    at /tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:119:3682
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2026-03-26 01:21:55.072] [error] Unhandled Rejection at: {} reason: Error: Model is unloaded.
+    at /tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:119:3682
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2026-03-26 01:21:55.073] [error] Unhandled Rejection at: {} reason: Error: Model is unloaded.
+    at /tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:119:3682
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2026-03-26 01:46:00.552] [error] [LMSInternal][Client=plugin:builtin:lmstudio/default-prediction-loop-handler][Endpoint=predict] Error in channel handler: Error: received prediction-error
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x157607._0x4399ea (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:114:13123)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:213649)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:119:4033)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:212624)
+    at _0x4ff16d.emit (node:events:519:28)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:662:21157)
+    at ChildProcess.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+- Caused By: Error: Unable to reuse from cache: llama_memory is null
+    at _0x53e970.<computed>.predictTokens (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:85:29971)
+    at async _0x5d16dc.predictTokens (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:17670)
+    at async _0x5d16dc.handleMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:7069)
+[2026-03-26 01:46:00.553] [error] [LMSInternal][Client=LM Studio][Endpoint=sendMessage] Error in RPC handler: Error: Rehydrated error
+e from cache: llama_memory is null
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x203399.subscriber (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:370:1568)
+    at _0x203399.notifier (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1021:203342)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+- Caused By: Error: Channel Error
+    at _0x582743.requestConversationNameLLM (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:505:101)
+    at handle (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:475:10592)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+- Caused By: Error: received prediction-error
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x157607._0x4399ea (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:114:13123)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:213649)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:119:4033)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:212624)
+    at _0x4ff16d.emit (node:events:519:28)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:662:21157)
+    at ChildProcess.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+- Caused By: Error: Unable to reuse from cache: llama_memory is null
+    at _0x53e970.<computed>.predictTokens (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:85:29971)
+    at async _0x5d16dc.predictTokens (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:17670)
+    at async _0x5d16dc.handleMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:7069)
+[2026-03-26 01:46:03.599] [error] [LMSInternal][Client=plugin:builtin:lmstudio/default-prediction-loop-handler][Endpoint=predict] Error in channel handler: Error: received prediction-error
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x157607._0x4399ea (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:114:13123)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:213649)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:119:4033)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:212624)
+    at _0x4ff16d.emit (node:events:519:28)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:662:21157)
+    at ChildProcess.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+- Caused By: Error: Unable to reuse from cache: llama_memory is null
+    at _0x53e970.<computed>.predictTokens (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:85:29971)
+    at async _0x5d16dc.predictTokens (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:17670)
+    at async _0x5d16dc.handleMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:7069)
+[2026-03-26 01:46:03.600] [error] [LMSInternal][Client=LM Studio][Endpoint=regenerateLastMessage] Error in RPC handler: Error: Rehydrated error
+e from cache: llama_memory is null
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x203399.subscriber (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:370:1568)
+    at _0x203399.notifier (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1021:203342)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+- Caused By: Error: Channel Error
+    at handle (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:475:4944)
+- Caused By: Error: received prediction-error
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x157607._0x4399ea (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:114:13123)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:213649)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:119:4033)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:212624)
+    at _0x4ff16d.emit (node:events:519:28)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:662:21157)
+    at ChildProcess.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+- Caused By: Error: Unable to reuse from cache: llama_memory is null
+    at _0x53e970.<computed>.predictTokens (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:85:29971)
+    at async _0x5d16dc.predictTokens (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:17670)
+    at async _0x5d16dc.handleMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:7069)
+[2026-03-26 01:46:06.244] [error] [LMSInternal][Client=plugin:builtin:lmstudio/default-prediction-loop-handler][Endpoint=predict] Error in channel handler: Error: received prediction-error
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x157607._0x4399ea (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:114:13123)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:213649)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:119:4033)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:212624)
+    at _0x4ff16d.emit (node:events:519:28)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:662:21157)
+    at ChildProcess.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+- Caused By: Error: Unable to reuse from cache: llama_memory is null
+    at _0x53e970.<computed>.predictTokens (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:85:29971)
+    at async _0x5d16dc.predictTokens (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:17670)
+    at async _0x5d16dc.handleMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:7069)
+[2026-03-26 01:46:06.246] [error] [LMSInternal][Client=LM Studio][Endpoint=regenerateLastMessage] Error in RPC handler: Error: Rehydrated error
+e from cache: llama_memory is null
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x203399.subscriber (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:370:1568)
+    at _0x203399.notifier (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1021:203342)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+- Caused By: Error: Channel Error
+    at handle (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:475:4944)
+- Caused By: Error: received prediction-error
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x157607._0x4399ea (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:114:13123)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:213649)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:119:4033)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:212624)
+    at _0x4ff16d.emit (node:events:519:28)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:662:21157)
+    at ChildProcess.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+- Caused By: Error: Unable to reuse from cache: llama_memory is null
+    at _0x53e970.<computed>.predictTokens (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:85:29971)
+    at async _0x5d16dc.predictTokens (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:17670)
+    at async _0x5d16dc.handleMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:7069)
+[2026-03-26 01:46:06.958] [error] [LMSInternal][Client=plugin:builtin:lmstudio/default-prediction-loop-handler][Endpoint=predict] Error in channel handler: Error: received prediction-error
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x157607._0x4399ea (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:114:13123)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:213649)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:119:4033)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:212624)
+    at _0x4ff16d.emit (node:events:519:28)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:662:21157)
+    at ChildProcess.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+- Caused By: Error: Unable to reuse from cache: llama_memory is null
+    at _0x53e970.<computed>.predictTokens (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:85:29971)
+    at async _0x5d16dc.predictTokens (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:17670)
+    at async _0x5d16dc.handleMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:7069)
+[2026-03-26 01:46:06.960] [error] [LMSInternal][Client=LM Studio][Endpoint=regenerateLastMessage] Error in RPC handler: Error: Rehydrated error
+e from cache: llama_memory is null
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x203399.subscriber (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:370:1568)
+    at _0x203399.notifier (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1021:203342)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+- Caused By: Error: Channel Error
+    at handle (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:475:4944)
+- Caused By: Error: received prediction-error
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x157607._0x4399ea (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:114:13123)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:213649)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:119:4033)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:212624)
+    at _0x4ff16d.emit (node:events:519:28)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:662:21157)
+    at ChildProcess.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+- Caused By: Error: Unable to reuse from cache: llama_memory is null
+    at _0x53e970.<computed>.predictTokens (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:85:29971)
+    at async _0x5d16dc.predictTokens (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:17670)
+    at async _0x5d16dc.handleMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:7069)
+[2026-03-26 01:46:07.376] [error] [LMSInternal][Client=plugin:builtin:lmstudio/default-prediction-loop-handler][Endpoint=predict] Error in channel handler: Error: received prediction-error
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x157607._0x4399ea (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:114:13123)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:213649)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:119:4033)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:212624)
+    at _0x4ff16d.emit (node:events:519:28)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:662:21157)
+    at ChildProcess.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+- Caused By: Error: Unable to reuse from cache: llama_memory is null
+    at _0x53e970.<computed>.predictTokens (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:85:29971)
+    at async _0x5d16dc.predictTokens (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:17670)
+    at async _0x5d16dc.handleMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:7069)
+[2026-03-26 01:46:07.377] [error] [LMSInternal][Client=LM Studio][Endpoint=regenerateLastMessage] Error in RPC handler: Error: Rehydrated error
+e from cache: llama_memory is null
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x203399.subscriber (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:370:1568)
+    at _0x203399.notifier (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1021:203342)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+- Caused By: Error: Channel Error
+    at handle (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:475:4944)
+- Caused By: Error: received prediction-error
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x157607._0x4399ea (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:114:13123)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:213649)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:119:4033)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:212624)
+    at _0x4ff16d.emit (node:events:519:28)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:662:21157)
+    at ChildProcess.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+- Caused By: Error: Unable to reuse from cache: llama_memory is null
+    at _0x53e970.<computed>.predictTokens (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:85:29971)
+    at async _0x5d16dc.predictTokens (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:17670)
+    at async _0x5d16dc.handleMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:7069)
+[2026-03-26 01:46:08.358] [error] [LMSInternal][Client=plugin:builtin:lmstudio/default-prediction-loop-handler][Endpoint=predict] Error in channel handler: Error: received prediction-error
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x157607._0x4399ea (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:114:13123)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:213649)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:119:4033)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:212624)
+    at _0x4ff16d.emit (node:events:519:28)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:662:21157)
+    at ChildProcess.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+- Caused By: Error: Unable to reuse from cache: llama_memory is null
+    at _0x53e970.<computed>.predictTokens (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:85:29971)
+    at async _0x5d16dc.predictTokens (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:17670)
+    at async _0x5d16dc.handleMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:7069)
+[2026-03-26 01:46:08.361] [error] [LMSInternal][Client=LM Studio][Endpoint=regenerateLastMessage] Error in RPC handler: Error: Rehydrated error
+e from cache: llama_memory is null
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x203399.subscriber (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:370:1568)
+    at _0x203399.notifier (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1021:203342)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+- Caused By: Error: Channel Error
+    at handle (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:475:4944)
+- Caused By: Error: received prediction-error
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x157607._0x4399ea (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:114:13123)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:213649)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:119:4033)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:212624)
+    at _0x4ff16d.emit (node:events:519:28)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:662:21157)
+    at ChildProcess.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+- Caused By: Error: Unable to reuse from cache: llama_memory is null
+    at _0x53e970.<computed>.predictTokens (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:85:29971)
+    at async _0x5d16dc.predictTokens (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:17670)
+    at async _0x5d16dc.handleMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:7069)
+[2026-03-26 01:46:17.651] [error] [LMSInternal][Client=plugin:builtin:lmstudio/default-prediction-loop-handler][Endpoint=predict] Error in channel handler: Error: received prediction-error
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x157607._0x4399ea (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:114:13123)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:213649)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:119:4033)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:212624)
+    at _0x4ff16d.emit (node:events:519:28)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:662:21157)
+    at ChildProcess.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+- Caused By: Error: Unable to reuse from cache: llama_memory is null
+    at _0x53e970.<computed>.predictTokens (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:85:29971)
+    at async _0x5d16dc.predictTokens (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:17670)
+    at async _0x5d16dc.handleMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:7069)
+[2026-03-26 01:46:17.653] [error] [LMSInternal][Client=LM Studio][Endpoint=predictNextMessage] Error in RPC handler: Error: Rehydrated error
+e from cache: llama_memory is null
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x203399.subscriber (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:370:1568)
+    at _0x203399.notifier (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1021:203342)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+- Caused By: Error: Channel Error
+    at handle (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:475:4944)
+- Caused By: Error: received prediction-error
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x157607._0x4399ea (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:114:13123)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:213649)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:119:4033)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:104:212624)
+    at _0x4ff16d.emit (node:events:519:28)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/main/index.js:662:21157)
+    at ChildProcess.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+- Caused By: Error: Unable to reuse from cache: llama_memory is null
+    at _0x53e970.<computed>.predictTokens (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:85:29971)
+    at async _0x5d16dc.predictTokens (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:17670)
+    at async _0x5d16dc.handleMessage (/tmp/.mount_lmstudLCUcFV/resources/app/.webpack/lib/llmworker.js:113:7069)
+[2026-03-29 16:35:47.527] [info]  App starting...
+[2026-03-29 16:35:47.529] [info]  [AppUpdater] Update channel set to 'stable'
+[2026-03-29 16:35:47.637] [info]  Hardware survey for general system resources through 'vulkan' took 105.64ms
+[2026-03-29 16:35:47.711] [info]  [AppUpdater] Checking for updates... (current state: idle)
+[2026-03-29 16:35:47.711] [info]  AppUpdater state changed to checking-for-updates-periodic
+[2026-03-29 16:35:47.711] [info]  [AppUpdater] Fetching version info from https://versions-prod.lmstudio.ai/update/linux/x86/0.3.32
+[2026-03-29 16:35:48.062] [info]  [AppUpdater] Received version info response
+[2026-03-29 16:35:48.062] [info]  [AppUpdater] Current version: 0.3.32 (build: 1), new version: 0.4.8 (build: 1)
+[2026-03-29 16:35:48.062] [info]  Update available: 0.4.8 > 0.3.32
+[2026-03-29 16:35:48.062] [info]  AppUpdater state changed to update-available
+[2026-03-29 16:44:23.796] [error] [LMSInternal][Client=LM Studio][Endpoint=loadModel] Error in channel handler: Error: Received load-error
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudNqE8br/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x157607._0x1ac457 (/tmp/.mount_lmstudNqE8br/resources/app/.webpack/main/index.js:119:6597)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudNqE8br/resources/app/.webpack/main/index.js:104:213649)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudNqE8br/resources/app/.webpack/main/index.js:119:4033)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudNqE8br/resources/app/.webpack/main/index.js:104:212624)
+    at _0x4ff16d.emit (node:events:519:28)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudNqE8br/resources/app/.webpack/main/index.js:662:21157)
+    at ChildProcess.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+- Caused By: Error: Failed to load model
+    at _0x53e970.<computed>.load (/tmp/.mount_lmstudNqE8br/resources/app/.webpack/lib/llmworker.js:85:15601)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async _0x5d16dc.loadModel (/tmp/.mount_lmstudNqE8br/resources/app/.webpack/lib/llmworker.js:113:14772)
+    at async _0x5d16dc.handleMessage (/tmp/.mount_lmstudNqE8br/resources/app/.webpack/lib/llmworker.js:113:6285)
+[2026-03-29 16:44:23.797] [error] [LMSInternal][Client=LM Studio][Endpoint=loadModel] No instance reference assigned before error
+[2026-03-29 16:44:23.798] [error] [LMSInternal][Client=LM Studio][Endpoint=countTokens] Error in RPC handler: Error: Model is unloaded.
+    at /tmp/.mount_lmstudNqE8br/resources/app/.webpack/main/index.js:119:3682
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2026-03-29 16:44:23.798] [error] [LMSInternal][Client=LM Studio][Endpoint=countTokens] Error in RPC handler: Error: Model is unloaded.
+    at /tmp/.mount_lmstudNqE8br/resources/app/.webpack/main/index.js:119:3682
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2026-03-29 16:44:23.798] [error] Unhandled Rejection at: {} reason: Error: Model is unloaded.
+    at /tmp/.mount_lmstudNqE8br/resources/app/.webpack/main/index.js:119:3682
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2026-03-29 16:44:23.798] [error] Unhandled Rejection at: {} reason: Error: Model is unloaded.
+    at /tmp/.mount_lmstudNqE8br/resources/app/.webpack/main/index.js:119:3682
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2026-03-29 16:45:19.425] [error] [LMSInternal][Client=LM Studio][Endpoint=countTokens] Error in RPC handler: Error: Model is unloaded.
+    at /tmp/.mount_lmstudNqE8br/resources/app/.webpack/main/index.js:119:3682
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2026-03-29 16:45:19.426] [error] [LMSInternal][Client=LM Studio][Endpoint=countTokens] Error in RPC handler: Error: Model is unloaded.
+    at /tmp/.mount_lmstudNqE8br/resources/app/.webpack/main/index.js:119:3682
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2026-03-29 16:45:19.426] [error] Unhandled Rejection at: {} reason: Error: Model is unloaded.
+    at /tmp/.mount_lmstudNqE8br/resources/app/.webpack/main/index.js:119:3682
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2026-03-29 16:45:19.426] [error] Unhandled Rejection at: {} reason: Error: Model is unloaded.
+    at /tmp/.mount_lmstudNqE8br/resources/app/.webpack/main/index.js:119:3682
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2026-03-29 16:45:23.030] [error] [LMSInternal][Client=LM Studio][Endpoint=loadModel] Error in channel handler: Error: Operation canceled.
+    at _0x157607._0x45eeb8 (/tmp/.mount_lmstudNqE8br/resources/app/.webpack/main/index.js:119:7659)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildExit (/tmp/.mount_lmstudNqE8br/resources/app/.webpack/main/index.js:104:213069)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudNqE8br/resources/app/.webpack/main/index.js:104:212389)
+    at _0x4ff16d.emit (node:events:531:35)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudNqE8br/resources/app/.webpack/main/index.js:662:21004)
+    at ChildProcess.emit (node:events:519:28)
+    at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+[2026-03-29 16:45:23.030] [error] [LMSInternal][Client=LM Studio][Endpoint=loadModel] No instance reference assigned before error
+[2026-03-29 16:45:35.893] [error] (node:591) [DEP0147] DeprecationWarning: In future versions of Node.js, fs.rmdir(path, { recursive: true }) will be removed. Use fs.rm(path, { recursive: true }) instead
+(Use `lm-studio --trace-deprecation ...` to show where the warning was created)
+[2026-03-29 17:06:35.289] [error] [LMSInternal][Client=LM Studio][Endpoint=loadModel] Error in channel handler: Error: Received load-error
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudNqE8br/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x157607._0x1ac457 (/tmp/.mount_lmstudNqE8br/resources/app/.webpack/main/index.js:119:6597)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudNqE8br/resources/app/.webpack/main/index.js:104:213649)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudNqE8br/resources/app/.webpack/main/index.js:119:4033)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudNqE8br/resources/app/.webpack/main/index.js:104:212624)
+    at _0x4ff16d.emit (node:events:519:28)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudNqE8br/resources/app/.webpack/main/index.js:662:21157)
+    at ChildProcess.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+- Caused By: Error: Failed to load model
+    at _0x53e970.<computed>.load (/tmp/.mount_lmstudNqE8br/resources/app/.webpack/lib/llmworker.js:85:15601)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async _0x5d16dc.loadModel (/tmp/.mount_lmstudNqE8br/resources/app/.webpack/lib/llmworker.js:113:14772)
+    at async _0x5d16dc.handleMessage (/tmp/.mount_lmstudNqE8br/resources/app/.webpack/lib/llmworker.js:113:6285)
+[2026-03-29 17:06:35.308] [error] [LMSInternal][Client=LM Studio][Endpoint=loadModel] No instance reference assigned before error
+[2026-03-29 17:06:35.315] [error] [LMSInternal][Client=LM Studio][Endpoint=countTokens] Error in RPC handler: Error: Model is unloaded.
+    at /tmp/.mount_lmstudNqE8br/resources/app/.webpack/main/index.js:119:3682
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2026-03-29 17:06:35.315] [error] [LMSInternal][Client=LM Studio][Endpoint=countTokens] Error in RPC handler: Error: Model is unloaded.
+    at /tmp/.mount_lmstudNqE8br/resources/app/.webpack/main/index.js:119:3682
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2026-03-29 17:06:35.315] [error] Unhandled Rejection at: {} reason: Error: Model is unloaded.
+    at /tmp/.mount_lmstudNqE8br/resources/app/.webpack/main/index.js:119:3682
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2026-03-29 17:06:35.315] [error] Unhandled Rejection at: {} reason: Error: Model is unloaded.
+    at /tmp/.mount_lmstudNqE8br/resources/app/.webpack/main/index.js:119:3682
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2026-03-29 22:55:29.325] [info]  App starting...
+[2026-03-29 22:55:29.327] [info]  [AppUpdater] Update channel set to 'stable'
+[2026-03-29 22:55:29.430] [info]  Hardware survey for general system resources through 'vulkan' took 100.31ms
+[2026-03-29 22:55:29.503] [info]  [AppUpdater] Checking for updates... (current state: idle)
+[2026-03-29 22:55:29.504] [info]  AppUpdater state changed to checking-for-updates-periodic
+[2026-03-29 22:55:29.504] [info]  [AppUpdater] Fetching version info from https://versions-prod.lmstudio.ai/update/linux/x86/0.3.32
+[2026-03-29 22:55:30.118] [info]  [AppUpdater] Received version info response
+[2026-03-29 22:55:30.118] [info]  [AppUpdater] Current version: 0.3.32 (build: 1), new version: 0.4.8 (build: 1)
+[2026-03-29 22:55:30.118] [info]  Update available: 0.4.8 > 0.3.32
+[2026-03-29 22:55:30.118] [info]  AppUpdater state changed to update-available
+[2026-03-29 22:55:50.470] [error] [LMSInternal][Client=LM Studio][Endpoint=loadModel] Error in channel handler: Error: Received load-error
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x157607._0x1ac457 (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:119:6597)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:104:213649)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:119:4033)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:104:212624)
+    at _0x4ff16d.emit (node:events:519:28)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:662:21157)
+    at ChildProcess.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+- Caused By: Error: Failed to load model
+    at _0x53e970.<computed>.load (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/lib/llmworker.js:85:15601)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async _0x5d16dc.loadModel (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/lib/llmworker.js:113:14772)
+    at async _0x5d16dc.handleMessage (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/lib/llmworker.js:113:6285)
+[2026-03-29 22:55:50.470] [error] [LMSInternal][Client=LM Studio][Endpoint=loadModel] No instance reference assigned before error
+[2026-03-29 22:55:50.471] [error] [LMSInternal][Client=LM Studio][Endpoint=countTokens] Error in RPC handler: Error: Model is unloaded.
+    at /tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:119:3682
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2026-03-29 22:55:50.471] [error] [LMSInternal][Client=LM Studio][Endpoint=countTokens] Error in RPC handler: Error: Model is unloaded.
+    at /tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:119:3682
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2026-03-29 22:55:50.471] [error] Unhandled Rejection at: {} reason: Error: Model is unloaded.
+    at /tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:119:3682
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2026-03-29 22:55:50.471] [error] Unhandled Rejection at: {} reason: Error: Model is unloaded.
+    at /tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:119:3682
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2026-03-29 23:06:06.994] [error] [LMSInternal][Client=LM Studio][Endpoint=predict] Error in channel handler: Error: received prediction-error
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x157607._0x4399ea (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:114:13123)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:104:213649)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:119:4033)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:104:212624)
+    at _0x4ff16d.emit (node:events:519:28)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:662:21157)
+    at ChildProcess.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+- Caused By: Error: Trying to keep the first 10234 tokens when context the overflows. However, the model is loaded with context length of only 4096 tokens, which is not enough. Try to load the model with a larger context length, or provide a shorter input
+    at _0x53e970.<computed>.predictTokens (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/lib/llmworker.js:85:29971)
+    at async _0x5d16dc.predictTokens (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/lib/llmworker.js:113:17670)
+    at async _0x5d16dc.handleMessage (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/lib/llmworker.js:113:7069)
+[2026-03-29 23:06:56.760] [error] [LMSInternal][Client=LM Studio][Endpoint=loadModel] Error in channel handler: Error: Received load-error
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x157607._0x1ac457 (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:119:6597)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:104:213649)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:119:4033)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:104:212624)
+    at _0x4ff16d.emit (node:events:519:28)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:662:21157)
+    at ChildProcess.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+- Caused By: Error: Failed to load model
+    at _0x53e970.<computed>.load (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/lib/llmworker.js:85:15601)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async _0x5d16dc.loadModel (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/lib/llmworker.js:113:14772)
+    at async _0x5d16dc.handleMessage (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/lib/llmworker.js:113:6285)
+[2026-03-29 23:06:56.761] [error] [LMSInternal][Client=LM Studio][Endpoint=loadModel] No instance reference assigned before error
+[2026-03-29 23:07:11.187] [error] [LMSInternal][Client=LM Studio][Endpoint=loadModel] Error in channel handler: Error: Operation canceled.
+    at _0x157607._0x45eeb8 (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:119:7659)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildExit (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:104:213069)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:104:212389)
+    at _0x4ff16d.emit (node:events:531:35)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:662:21004)
+    at ChildProcess.emit (node:events:519:28)
+    at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+    at Process.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-03-29 23:07:11.203] [error] [LMSInternal][Client=LM Studio][Endpoint=loadModel] No instance reference assigned before error
+[2026-03-29 23:13:22.300] [error] [LMSInternal][Client=LM Studio][Endpoint=loadModel] Error in channel handler: Error: Received load-error
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x157607._0x1ac457 (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:119:6597)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:104:213649)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:119:4033)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:104:212624)
+    at _0x4ff16d.emit (node:events:519:28)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:662:21157)
+    at ChildProcess.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+- Caused By: Error: Failed to load model
+    at _0x53e970.<computed>.load (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/lib/llmworker.js:85:15601)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async _0x5d16dc.loadModel (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/lib/llmworker.js:113:14772)
+    at async _0x5d16dc.handleMessage (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/lib/llmworker.js:113:6285)
+[2026-03-29 23:13:22.324] [error] [LMSInternal][Client=LM Studio][Endpoint=loadModel] No instance reference assigned before error
+[2026-03-29 23:13:41.943] [error] [LMSInternal][Client=LM Studio][Endpoint=loadModel] Error in channel handler: Error: Received load-error
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x157607._0x1ac457 (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:119:6597)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:104:213649)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:119:4033)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:104:212624)
+    at _0x4ff16d.emit (node:events:519:28)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:662:21157)
+    at ChildProcess.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+- Caused By: Error: Failed to load model
+    at _0x53e970.<computed>.load (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/lib/llmworker.js:85:15601)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async _0x5d16dc.loadModel (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/lib/llmworker.js:113:14772)
+    at async _0x5d16dc.handleMessage (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/lib/llmworker.js:113:6285)
+[2026-03-29 23:13:41.959] [error] [LMSInternal][Client=LM Studio][Endpoint=loadModel] No instance reference assigned before error
+[2026-03-29 23:13:55.159] [error] [LMSInternal][Client=LM Studio][Endpoint=loadModel] Error in channel handler: Error: Received load-error
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x157607._0x1ac457 (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:119:6597)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:104:213649)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:119:4033)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:104:212624)
+    at _0x4ff16d.emit (node:events:519:28)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:662:21157)
+    at ChildProcess.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+- Caused By: Error: Failed to load model
+    at _0x53e970.<computed>.load (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/lib/llmworker.js:85:15601)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async _0x5d16dc.loadModel (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/lib/llmworker.js:113:14772)
+    at async _0x5d16dc.handleMessage (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/lib/llmworker.js:113:6285)
+[2026-03-29 23:13:55.159] [error] [LMSInternal][Client=LM Studio][Endpoint=loadModel] No instance reference assigned before error
+[2026-03-29 23:14:16.299] [error] [LMSInternal][Client=LM Studio][Endpoint=loadModel] Error in channel handler: Error: Received load-error
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x157607._0x1ac457 (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:119:6597)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:104:213649)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:119:4033)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:104:212624)
+    at _0x4ff16d.emit (node:events:519:28)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:662:21157)
+    at ChildProcess.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+- Caused By: Error: Failed to load model
+    at _0x53e970.<computed>.load (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/lib/llmworker.js:85:15601)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async _0x5d16dc.loadModel (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/lib/llmworker.js:113:14772)
+    at async _0x5d16dc.handleMessage (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/lib/llmworker.js:113:6285)
+[2026-03-29 23:14:16.299] [error] [LMSInternal][Client=LM Studio][Endpoint=loadModel] No instance reference assigned before error
+[2026-03-29 23:14:43.898] [error] [LMSInternal][Client=LM Studio][Endpoint=loadModel] Error in channel handler: Error: Received load-error
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x157607._0x1ac457 (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:119:6597)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:104:213649)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:119:4033)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:104:212624)
+    at _0x4ff16d.emit (node:events:519:28)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:662:21157)
+    at ChildProcess.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+- Caused By: Error: Failed to load model
+    at _0x53e970.<computed>.load (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/lib/llmworker.js:85:15601)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async _0x5d16dc.loadModel (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/lib/llmworker.js:113:14772)
+    at async _0x5d16dc.handleMessage (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/lib/llmworker.js:113:6285)
+[2026-03-29 23:14:43.898] [error] [LMSInternal][Client=LM Studio][Endpoint=loadModel] No instance reference assigned before error
+[2026-03-29 23:15:10.962] [error] [LMSInternal][Client=LM Studio][Endpoint=reloadModel] Error in RPC handler: Error: Received load-error
+    at _0x17133b.fromSerializedError (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:1193:144509)
+    at _0x157607._0x1ac457 (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:119:6597)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:104:213649)
+    at _0x157607.onChildMessage (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:119:4033)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:104:212624)
+    at _0x4ff16d.emit (node:events:519:28)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:662:21157)
+    at ChildProcess.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+- Caused By: Error: Failed to load model
+    at _0x53e970.<computed>.load (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/lib/llmworker.js:85:15601)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async _0x5d16dc.loadModel (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/lib/llmworker.js:113:14772)
+    at async _0x5d16dc.handleMessage (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/lib/llmworker.js:113:6285)
+[2026-03-29 23:27:12.606] [error] [LMSInternal][Client=LM Studio][Endpoint=predict] Error in channel handler: Error: Model unloaded.
+    at _0x157607._0x136721 (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:114:13458)
+    at _0x157607.emit (node:events:519:28)
+    at _0x157607.onChildExit (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:104:213069)
+    at _0x4ff16d.<anonymous> (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:104:212389)
+    at _0x4ff16d.emit (node:events:531:35)
+    at ChildProcess.<anonymous> (/tmp/.mount_lmstudqt3ZxX/resources/app/.webpack/main/index.js:662:21004)
+    at ChildProcess.emit (node:events:519:28)
+    at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+    at Process.callbackTrampoline (node:internal/async_hooks:130:17)

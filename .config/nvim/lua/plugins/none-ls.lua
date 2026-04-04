@@ -1,24 +1,53 @@
 return {
-  "nvimtools/none-ls.nvim",
-  dependencies = {
-    "nvimtools/none-ls-extras.nvim"
-  },
-  config = function()
-    local null_ls = require("null-ls")
-    null_ls.setup({
-      sources = {
-        null_ls.builtins.formatting.stylua,
-        null_ls.builtins.formatting.prettier,
-        null_ls.builtins.formatting.black,
-        null_ls.builtins.formatting.isort,
-        require("none-ls.diagnostics.eslint_d"),
-        null_ls.builtins.diagnostics.pylint,
-        require("none-ls.diagnostics.cpplint"),
-        null_ls.builtins.diagnostics.markdownlint,
-        null_ls.builtins.diagnostics.sqlfluff,
-      },
-    })
+  {
+    "stevearc/conform.nvim",
+    config = function()
+      require("conform").setup({
+        formatters_by_ft = {
+          lua = { "stylua" },
+          javascript = { "prettier" },
+          typescript = { "prettier" },
+          javascriptreact = { "prettier" },
+          typescriptreact = { "prettier" },
+          html = { "prettier" },
+          css = { "prettier" },
+          json = { "prettier" },
+          yaml = { "prettier" },
+          markdown = { "prettier" },
+          python = { "black", "isort" },
+        },
+        format_on_save = {
+          lsp_fallback = true,
+          timeout_ms = 500,
+        },
+      })
 
-    vim.keymap.set("n", "<leader>gf", vim.lsp.buf.format, {})
-  end,
+      vim.keymap.set("n", "<leader>gf", function()
+        require("conform").format({ lsp_fallback = true })
+      end, {})
+    end,
+  },
+  {
+    "mfussenegger/nvim-lint",
+    config = function()
+      local lint = require("lint")
+      lint.linters_by_ft = {
+        javascript = { "eslint_d" },
+        typescript = { "eslint_d" },
+        javascriptreact = { "eslint_d" },
+        typescriptreact = { "eslint_d" },
+        python = { "pylint" },
+        cpp = { "cpplint" },
+        c = { "cpplint" },
+        markdown = { "markdownlint" },
+        sql = { "sqlfluff" },
+      }
+
+      vim.api.nvim_create_autocmd({ "BufWritePost" }, {
+        callback = function()
+          lint.try_lint()
+        end,
+      })
+    end,
+  },
 }

@@ -1,0 +1,23 @@
+<monitors version="2">
+  <configuration>
+    <logicalmonitor>
+      <x>0</x>
+      <y>0</y>
+      <scale>1</scale>
+      <primary>yes</primary>
+      <monitor>
+        <monitorspec>
+          <connector>DP-0</connector>
+          <vendor>AUS</vendor>
+          <product>VG27VQ3B</product>
+          <serial>T4LMTF143475</serial>
+        </monitorspec>
+        <mode>
+          <width>1920</width>
+          <height>1080</height>
+          <rate>179.99826049804688</rate>
+        </mode>
+      </monitor>
+    </logicalmonitor>
+  </configuration>
+</monitors>

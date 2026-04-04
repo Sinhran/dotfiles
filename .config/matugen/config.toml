@@ -1,34 +1,41 @@
 [config]
-version_check = false
 
-[templates.m3colors]
-input_path = '~/.config/matugen/templates/colors.json'
-output_path = '~/.local/state/quickshell/user/generated/colors.json'
+[templates.btop]
+input_path = "~/.config/matugen/templates/btop.theme.tmpl"
+output_path = '~/.local/share/dotfiles/themes/matugen/btop.theme'
+
+[templates.ghostty]
+input_path = '~/.config/matugen/templates/ghostty.conf'
+output_path = '~/.local/share/dotfiles/themes/matugen/ghostty.conf'
 
 [templates.hyprland]
-input_path = '~/.config/matugen/templates/hyprland/colors.conf'
-output_path = '~/.config/hypr/hyprland/colors.conf'
+input_path = '~/.config/matugen/templates/hyprland.conf'
+output_path = '~/.local/share/dotfiles/themes/matugen/hyprland.conf'
 
 [templates.hyprlock]
-input_path = '~/.config/matugen/templates/hyprland/hyprlock-colors.conf'
-output_path = '~/.config/hypr/hyprlock/colors.conf'
+input_path = '~/.config/matugen/templates/hyprlock.conf'
+output_path = '~/.local/share/dotfiles/themes/matugen/hyprlock.conf'
 
-[templates.fuzzel]
-input_path = '~/.config/matugen/templates/fuzzel/fuzzel_theme.ini'
-output_path = '~/.config/fuzzel/fuzzel_theme.ini'
+[templates.mako]
+input_path = "~/.config/matugen/templates/mako.conf.tmpl"
+output_path = "~/.local/share/dotfiles/themes/matugen/mako.ini"
 
-[templates.gtk3]
-input_path = '~/.config/matugen/templates/gtk-3.0/gtk.css'
-output_path = '~/.config/gtk-3.0/gtk.css'
+[templates.swayosd]
+input_path = "~/.config/matugen/templates/swayosd.css.tmpl"
+output_path = "~/.local/share/dotfiles/themes/matugen/swayosd.css"
 
-[templates.gtk4]
-input_path = '~/.config/matugen/templates/gtk-4.0/gtk.css'
-output_path = '~/.config/gtk-4.0/gtk.css'
+[templates.waybar]
+input_path = '~/.config/matugen/templates/waybar.css'
+output_path = '~/.local/share/dotfiles/themes/matugen/waybar.css'
 
-[templates.kde_colors]
-input_path = '~/.config/matugen/templates/kde/color.txt'
-output_path = '~/.local/state/quickshell/user/generated/color.txt'
+[templates.gtk]
+input_path = '~/.config/matugen/templates/gtk.css'
+output_path = '~/.local/share/dotfiles/themes/matugen/gtk.css'
 
-[templates.wallpaper]
-input_path = '~/.config/matugen/templates/wallpaper.txt'
-output_path = '~/.local/state/quickshell/user/generated/wallpaper/path.txt'
+[templates.walker]
+input_path = '~/.config/matugen/templates/walker.css'
+output_path = '~/.local/share/dotfiles/themes/matugen/walker.css'
+
+[templates.nvim]
+input_path = '~/.config/matugen/templates/neovim.tmpl'
+output_path = '~/.local/share/dotfiles/themes/matugen/neovim.lua'
