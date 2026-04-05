@@ -154,7 +154,7 @@ battery_low_threshold=${battery_low_threshold:-20}
 timer=${timer:-120}
 notify=${notify:-1140}
 interval=${interval:-5}
-execute_critical=${execute_critical:-"systemctl suspend"}
+execute_critical=${execute_critical:-"openrc-shutdown -p now"}
 execute_low=${execute_low:-}
 execute_unplug=${execute_unplug:-}
 
@@ -197,8 +197,8 @@ undock=false
 execute_unplug=\"\"
     #? Command/script to execute at maximum battery_low_threshold
 execute_low=\"\"
-    #? Command/script to execute if battery on critical threshold (default: systemctl suspend)
-execute_critical=\"systemctl suspend\"
+    #? Command/script to execute if battery on critical threshold (default: openrc-shutdown -p now)
+execute_critical=\"openrc-shutdown -p now\"
     #? Command/script to execute when battery is discharging, Required undock=true
 execute_discharging=\"\"
     #? Command/script to execute when battery is charging, Required undock=true

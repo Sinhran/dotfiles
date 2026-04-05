@@ -14,14 +14,14 @@
 
 {
     "label" : "shutdown",
-    "action" : "systemctl poweroff",
+    "action" : "openrc-shutdown --poweroff now",
     "text" : "Shutdown",
     "keybind" : "s"
 }
 
 {
     "label" : "reboot",
-    "action" : "systemctl reboot",
+    "action" : "openrc-shutdown --reboot now",
     "text" : "Reboot",
     "keybind" : "r"
 }

@@ -1,0 +1,257 @@
+{"level":30,"time":"2026-04-05T02:28:47.054Z","msg":"Setup Complete with crowdinLocale: en"}
+{"level":30,"time":"2026-04-05T02:28:47.463Z","msg":"background page reloaded"}
+{"level":30,"time":"2026-04-05T02:28:47.463Z","msg":"environment: production"}
+{"level":30,"time":"2026-04-05T02:28:47.463Z","msg":"Storage fetch"}
+{"level":30,"time":"2026-04-05T02:28:47.464Z","msg":"updateToStorageSchemaVersion1: starting..."}
+{"level":30,"time":"2026-04-05T02:28:47.474Z","msg":"[migrateLegacyReduxPersist] no localStorage value for redux-persist"}
+{"level":30,"time":"2026-04-05T02:28:47.475Z","msg":"updateToStorageSchemaVersion1: success!"}
+{"level":30,"time":"2026-04-05T02:28:47.476Z","msg":"[updater] New version detected: 1.17.12; previous: undefined"}
+{"level":30,"time":"2026-04-05T02:28:47.526Z","msg":"Processing 0 contacts and 0 volatile convos"}
+{"level":30,"time":"2026-04-05T02:28:47.526Z","msg":"refreshAllWrappersMappedValues took 0ms"}
+{"level":30,"time":"2026-04-05T02:28:47.526Z","msg":"ConversationController: done with initial fetch in 0ms."}
+{"level":30,"time":"2026-04-05T02:28:47.528Z","msg":"Cleanup: starting..."}
+{"level":30,"time":"2026-04-05T02:28:47.529Z","msg":"Cleanup: Found 0 messages for cleanup"}
+{"level":30,"time":"2026-04-05T02:28:47.529Z","msg":"Cleanup: complete"}
+{"level":30,"time":"2026-04-05T02:28:47.529Z","msg":"listening for registration events"}
+{"level":30,"time":"2026-04-05T02:28:47.574Z","msg":"updateToStorageSchemaVersion1: starting..."}
+{"level":30,"time":"2026-04-05T02:28:47.576Z","msg":"[migrateLegacyReduxPersist] no localStorage value for redux-persist"}
+{"level":30,"time":"2026-04-05T02:28:47.577Z","msg":"updateToStorageSchemaVersion1: success!"}
+{"level":30,"time":"2026-04-05T02:28:47.578Z","msg":"Processing 0 contacts and 0 volatile convos"}
+{"level":30,"time":"2026-04-05T02:28:47.578Z","msg":"refreshAllWrappersMappedValues took 0ms"}
+{"level":30,"time":"2026-04-05T02:28:47.578Z","msg":"ConversationController: done with initial fetch in 1ms."}
+{"level":40,"time":"2026-04-05T02:28:47.578Z","msg":"[snodePool] getSnodePoolFromDBOrFetchFromSeed: not enough snodes in db (undefined), Fetching from seed node instead... "}
+{"level":30,"time":"2026-04-05T02:28:47.578Z","msg":"fetchSnodePoolFromSeedNode with seedNodes.length 3"}
+{"level":30,"time":"2026-04-05T02:28:47.579Z","msg":"getSnodeListFromSeednode starting..."}
+{"level":30,"time":"2026-04-05T02:28:47.579Z","msg":"fetchSnodePoolFromSeedNodeRetryable starting..."}
+{"level":30,"time":"2026-04-05T02:28:47.579Z","msg":"getSnodesFromSeedUrl starting with [REDACTED]"}
+{"level":30,"time":"2026-04-05T02:28:47.579Z","msg":"getSnodesFromSeedUrl starting with [REDACTED]"}
+{"level":30,"time":"2026-04-05T02:28:47.579Z","msg":"getSnodesFromSeedUrl starting with [REDACTED]"}
+{"level":30,"time":"2026-04-05T02:28:47.579Z","msg":"insecureNodeFetch => plaintext for getSnodesFromSeedUrl  [REDACTED]"}
+{"level":30,"time":"2026-04-05T02:28:47.591Z","msg":"insecureNodeFetch => plaintext for getSnodesFromSeedUrl  [REDACTED]"}
+{"level":30,"time":"2026-04-05T02:28:47.591Z","msg":"insecureNodeFetch => plaintext for getSnodesFromSeedUrl  [REDACTED]"}
+{"level":30,"time":"2026-04-05T02:28:47.781Z","msg":"seednode checkServerIdentity: seed1.getsession.org"}
+{"level":30,"time":"2026-04-05T02:28:47.831Z","msg":"seednode checkServerIdentity: seed2.getsession.org"}
+{"level":30,"time":"2026-04-05T02:28:47.889Z","msg":"SeedNodeAPI::fetchSnodePoolFromSeedNodeWithRetries - Refreshed random snode pool with 1569 snodes"}
+{"level":30,"time":"2026-04-05T02:28:47.894Z","msg":"[snodePool] fetchSnodePoolFromSeedNodeWithRetries took 316ms"}
+{"level":30,"time":"2026-04-05T02:28:48.061Z","msg":"seednode checkServerIdentity: seed3.getsession.org"}
+{"level":30,"time":"2026-04-05T02:29:39.590Z","msg":"updateToStorageSchemaVersion1: starting..."}
+{"level":30,"time":"2026-04-05T02:29:39.591Z","msg":"[migrateLegacyReduxPersist] no localStorage value for redux-persist"}
+{"level":30,"time":"2026-04-05T02:29:39.592Z","msg":"updateToStorageSchemaVersion1: success!"}
+{"level":30,"time":"2026-04-05T02:29:39.592Z","msg":"Processing 0 contacts and 0 volatile convos"}
+{"level":30,"time":"2026-04-05T02:29:39.592Z","msg":"refreshAllWrappersMappedValues took 0ms"}
+{"level":30,"time":"2026-04-05T02:29:39.592Z","msg":"ConversationController: done with initial fetch in 0ms."}
+{"level":30,"time":"2026-04-05T02:29:39.603Z","msg":"[onionPaths] Must have at least 1 good onion paths, actual: 0, attempt #0"}
+{"level":30,"time":"2026-04-05T02:29:39.604Z","msg":"[onionPaths] buildNewOnionPaths - building new onion paths..."}
+{"level":40,"time":"2026-04-05T02:29:39.604Z","msg":"SessionSnodeAPI::getGuardNodeOrSelectNewOnes - no guard nodes in DB. Will be selecting new guards nodes..."}
+{"level":30,"time":"2026-04-05T02:29:39.604Z","msg":"[onionPaths] selectGuardNodes snodePool length: 1569"}
+{"level":30,"time":"2026-04-05T02:29:39.604Z","msg":"[onionPaths] selectGuardNodes attempts: 0"}
+{"level":30,"time":"2026-04-05T02:29:39.604Z","msg":"[onionPaths] Testing a candidate guard node (...437368)"}
+{"level":30,"time":"2026-04-05T02:29:39.604Z","msg":"[onionPaths] insecureNodeFetch => plaintext for testGuardNode: [REDACTED]"}
+{"level":30,"time":"2026-04-05T02:29:39.605Z","msg":"[onionPaths] Testing a candidate guard node (...240000)"}
+{"level":30,"time":"2026-04-05T02:29:39.605Z","msg":"[onionPaths] insecureNodeFetch => plaintext for testGuardNode: [REDACTED]"}
+{"level":30,"time":"2026-04-05T02:29:40.079Z","msg":"[onionPaths] selectGuardNodes took 475ms"}
+{"level":30,"time":"2026-04-05T02:29:40.079Z","msg":"[onionPaths] buildNewOnionPaths, snodePool length: 1569"}
+{"level":30,"time":"2026-04-05T02:29:40.082Z","msg":"[onionPaths] Building 2 onion paths based on guard nodes length: 2, other nodes length 1568 "}
+{"level":30,"time":"2026-04-05T02:29:40.083Z","msg":"[onionPaths] Built 2 onion paths"}
+{"level":30,"time":"2026-04-05T02:29:41.101Z","msg":"[onboarding] about to pollOnceForOurDisplayName of (...63be6267) from snode: (...f9c7ee) namespaces: 2 "}
+{"level":30,"time":"2026-04-05T02:29:41.102Z","msg":"[onboarding] about to pollOnceForOurDisplayName of (...63be6267) from snode: (...fa1a7b) namespaces: 2 "}
+{"level":30,"time":"2026-04-05T02:29:41.102Z","msg":"[onboarding] about to pollOnceForOurDisplayName of (...63be6267) from snode: (...63eb30) namespaces: 2 "}
+{"level":30,"time":"2026-04-05T02:29:41.102Z","msg":"[onboarding] about to pollOnceForOurDisplayName of (...63be6267) from snode: (...0b2691) namespaces: 2 "}
+{"level":30,"time":"2026-04-05T02:29:41.102Z","msg":"[onboarding] about to pollOnceForOurDisplayName of (...63be6267) from snode: (...eb0009) namespaces: 2 "}
+{"level":30,"time":"2026-04-05T02:29:41.102Z","msg":"[onboarding] about to pollOnceForOurDisplayName of (...63be6267) from snode: (...dfa819) namespaces: 2 "}
+{"level":30,"time":"2026-04-05T02:29:41.102Z","msg":"[onboarding] about to pollOnceForOurDisplayName of (...63be6267) from snode: (...6c6a0d) namespaces: 2 "}
+{"level":30,"time":"2026-04-05T02:29:41.511Z","msg":"[onboarding] pollOnceForOurDisplayName of (...63be6267) from snode: (...63eb30) namespaces: 2 returned: 1"}
+{"level":30,"time":"2026-04-05T02:29:41.512Z","msg":"[onboarding] pollOnceForOurDisplayName of (...63be6267) from snode: (...f9c7ee) namespaces: 2 returned: 1"}
+{"level":30,"time":"2026-04-05T02:29:41.921Z","msg":"[onboarding] pollOnceForOurDisplayName of (...63be6267) from snode: (...dfa819) namespaces: 2 returned: 1"}
+{"level":30,"time":"2026-04-05T02:29:42.125Z","msg":"[onboarding] pollOnceForOurDisplayName of (...63be6267) from snode: (...eb0009) namespaces: 2 returned: 1"}
+{"level":30,"time":"2026-04-05T02:29:42.171Z","msg":"[onboarding] registration done with user provided displayName \"Sin\" and pubkey \"[REDACTED]\""}
+{"level":30,"time":"2026-04-05T02:29:42.174Z","msg":"initializeLibSessionUtilWrappers alldumpsInDB already:  []"}
+{"level":40,"time":"2026-04-05T02:29:42.174Z","msg":"initializeLibSessionUtilWrappers: missingRequiredVariants \"UserConfig\""}
+{"level":40,"time":"2026-04-05T02:29:42.176Z","msg":"initializeLibSessionUtilWrappers: missingRequiredVariants \"ContactsConfig\""}
+{"level":40,"time":"2026-04-05T02:29:42.176Z","msg":"initializeLibSessionUtilWrappers: missingRequiredVariants \"UserGroupsConfig\""}
+{"level":40,"time":"2026-04-05T02:29:42.177Z","msg":"initializeLibSessionUtilWrappers: missingRequiredVariants \"ConvoInfoVolatileConfig\""}
+{"level":30,"time":"2026-04-05T02:29:42.190Z","msg":"[onboarding] dispatching registration event"}
+{"level":30,"time":"2026-04-05T02:29:42.190Z","msg":"[onboarding] handling registration event"}
+{"level":30,"time":"2026-04-05T02:29:42.190Z","msg":"connect"}
+{"level":30,"time":"2026-04-05T02:29:42.195Z","msg":"createInitialDumpsMissingForGroups: creating 0 groups from user config that does not have a dump"}
+{"level":30,"time":"2026-04-05T02:29:42.742Z","msg":"[onboarding] pollOnceForOurDisplayName of (...63be6267) from snode: (...0b2691) namespaces: 2 returned: 1"}
+{"level":30,"time":"2026-04-05T02:29:42.948Z","msg":"[onboarding] pollOnceForOurDisplayName of (...63be6267) from snode: (...fa1a7b) namespaces: 2 returned: 1"}
+{"level":30,"time":"2026-04-05T02:29:42.948Z","msg":"[onboarding] pollOnceForOurDisplayName of (...63be6267) from snode: (...6c6a0d) namespaces: 2 returned: 1"}
+{"level":30,"time":"2026-04-05T02:29:53.497Z","msg":"received userConfigMessagesMerged count: 3"}
+{"level":30,"time":"2026-04-05T02:29:53.497Z","msg":"handleConfigMessagesViaLibSession of \"3\" messages with libsession"}
+{"level":30,"time":"2026-04-05T02:29:54.039Z","msg":"i18n: userLocaleDashed: 'en', mapping to browser locale: en"}
+{"level":30,"time":"2026-04-05T02:30:01.585Z","msg":"received userConfigMessagesMerged count: 3"}
+{"level":30,"time":"2026-04-05T02:30:01.585Z","msg":"handleConfigMessagesViaLibSession of \"3\" messages with libsession"}
+{"level":30,"time":"2026-04-05T02:30:05.529Z","msg":"those user variants needs push: \"UserConfig\""}
+{"level":30,"time":"2026-04-05T02:30:08.341Z","msg":"sendMessagesDataToSnode - Successfully sent requests to (...63be6267) via (...0b2691) (requests: store-(...63be6267)-userProfile, delete-us)"}
+{"level":30,"time":"2026-04-05T02:30:09.981Z","msg":"received userConfigMessagesMerged count: 3"}
+{"level":30,"time":"2026-04-05T02:30:09.981Z","msg":"handleConfigMessagesViaLibSession of \"3\" messages with libsession"}
+{"level":30,"time":"2026-04-05T02:30:12.831Z","msg":"destroyExpiredMessages: Loading messages..."}
+{"level":30,"time":"2026-04-05T02:30:12.831Z","msg":"destroyExpiredMessages: convosToRefresh: []"}
+{"level":30,"time":"2026-04-05T02:30:12.832Z","msg":"destroyExpiredMessages: complete"}
+{"level":30,"time":"2026-04-05T02:30:12.833Z","msg":"Loading 0 messages (0 quoted messages) took 1ms to load for convo (...55350553)."}
+{"level":30,"time":"2026-04-05T02:30:13.774Z","msg":"destroyExpiredMessages: Loading messages..."}
+{"level":30,"time":"2026-04-05T02:30:13.777Z","msg":"destroyExpiredMessages: convosToRefresh: []"}
+{"level":30,"time":"2026-04-05T02:30:13.777Z","msg":"destroyExpiredMessages: complete"}
+{"level":30,"time":"2026-04-05T02:30:13.778Z","msg":"Loading 0 messages (0 quoted messages) took 1ms to load for convo (...351c6e7d)."}
+{"level":30,"time":"2026-04-05T02:30:21.042Z","msg":"received userConfigMessagesMerged count: 3"}
+{"level":30,"time":"2026-04-05T02:30:21.042Z","msg":"handleConfigMessagesViaLibSession of \"3\" messages with libsession"}
+{"level":30,"time":"2026-04-05T02:30:27.798Z","msg":"received userConfigMessagesMerged count: 1"}
+{"level":30,"time":"2026-04-05T02:30:27.798Z","msg":"handleConfigMessagesViaLibSession of \"1\" messages with libsession"}
+{"level":30,"time":"2026-04-05T02:30:29.395Z","msg":"destroyExpiredMessages: Loading messages..."}
+{"level":30,"time":"2026-04-05T02:30:29.396Z","msg":"destroyExpiredMessages: convosToRefresh: []"}
+{"level":30,"time":"2026-04-05T02:30:29.396Z","msg":"destroyExpiredMessages: complete"}
+{"level":30,"time":"2026-04-05T02:30:29.396Z","msg":"Loading 0 messages (0 quoted messages) took 0ms to load for convo (...55350553)."}
+{"level":30,"time":"2026-04-05T02:30:29.785Z","msg":"destroyExpiredMessages: Loading messages..."}
+{"level":30,"time":"2026-04-05T02:30:29.788Z","msg":"destroyExpiredMessages: convosToRefresh: []"}
+{"level":30,"time":"2026-04-05T02:30:29.788Z","msg":"destroyExpiredMessages: complete"}
+{"level":30,"time":"2026-04-05T02:30:29.789Z","msg":"Loading 0 messages (0 quoted messages) took 1ms to load for convo (...351c6e7d)."}
+{"level":30,"time":"2026-04-05T02:30:33.839Z","msg":"received userConfigMessagesMerged count: 1"}
+{"level":30,"time":"2026-04-05T02:30:33.839Z","msg":"handleConfigMessagesViaLibSession of \"1\" messages with libsession"}
+{"level":30,"time":"2026-04-05T02:30:42.213Z","msg":"[updater] about to fetchReleaseFromFSAndUpdateMain"}
+{"level":30,"time":"2026-04-05T02:30:42.850Z","msg":"[updater] renderer process fetched from the stable release channel on the fileserver: 1.17.17"}
+{"level":30,"time":"2026-04-05T02:30:44.723Z","msg":"destroyExpiredMessages: Loading messages..."}
+{"level":30,"time":"2026-04-05T02:30:44.723Z","msg":"destroyExpiredMessages: convosToRefresh: []"}
+{"level":30,"time":"2026-04-05T02:30:44.723Z","msg":"destroyExpiredMessages: complete"}
+{"level":30,"time":"2026-04-05T02:30:44.724Z","msg":"Loading 0 messages (0 quoted messages) took 1ms to load for convo (...55350553)."}
+{"level":30,"time":"2026-04-05T02:30:45.104Z","msg":"destroyExpiredMessages: Loading messages..."}
+{"level":30,"time":"2026-04-05T02:30:45.107Z","msg":"destroyExpiredMessages: convosToRefresh: []"}
+{"level":30,"time":"2026-04-05T02:30:45.107Z","msg":"destroyExpiredMessages: complete"}
+{"level":30,"time":"2026-04-05T02:30:45.107Z","msg":"Loading 0 messages (0 quoted messages) took 0ms to load for convo (...351c6e7d)."}
+{"level":30,"time":"2026-04-05T02:30:48.487Z","msg":"received userConfigMessagesMerged count: 3"}
+{"level":30,"time":"2026-04-05T02:30:48.487Z","msg":"handleConfigMessagesViaLibSession of \"3\" messages with libsession"}
+{"level":30,"time":"2026-04-05T02:31:42.212Z","msg":"[updater] about to fetchReleaseFromFSAndUpdateMain"}
+{"level":30,"time":"2026-04-05T02:31:42.213Z","msg":"[updater] fetched release from fs 0 minutes ago, skipping until that's at least 30"}
+{"level":30,"time":"2026-04-05T02:32:12.825Z","msg":"destroyExpiredMessages: Loading messages..."}
+{"level":30,"time":"2026-04-05T02:32:12.826Z","msg":"destroyExpiredMessages: convosToRefresh: []"}
+{"level":30,"time":"2026-04-05T02:32:12.826Z","msg":"destroyExpiredMessages: complete"}
+{"level":30,"time":"2026-04-05T02:32:12.826Z","msg":"Loading 0 messages (0 quoted messages) took 0ms to load for convo (...63be6267)."}
+{"level":30,"time":"2026-04-05T02:32:15.516Z","msg":"Sending message to conversation priv:(...63be6267) with networkTimestamp: 1775356348079"}
+{"level":30,"time":"2026-04-05T02:32:15.544Z","msg":"Upload of message data for message msg(198a68a4-1a99-45e9-a9b0-47cf2d484642, priv:(...63be6267), 1775356348079) is finished in 2ms. Attachments: "}
+{"level":30,"time":"2026-04-05T02:32:15.547Z","msg":"OutgoingMessageQueue: Processing sync message"}
+{"level":30,"time":"2026-04-05T02:32:16.543Z","msg":"updated message 198a68a4-1a99-45e9-a9b0-47cf2d484642 with hash: l9+D0LBzvc0DPlqAJD8kGP98v9hD9PUH7u3tuKtxEts"}
+{"level":30,"time":"2026-04-05T02:32:18.529Z","msg":"those user variants needs push: \"ConvoInfoVolatileConfig\""}
+{"level":30,"time":"2026-04-05T02:32:19.819Z","msg":"sendMessagesDataToSnode - Successfully sent requests to (...63be6267) via (...63eb30) (requests: store-(...63be6267)-convoVolatile, delete-us)"}
+{"level":30,"time":"2026-04-05T02:32:19.821Z","msg":"received userConfigMessagesMerged count: 1"}
+{"level":30,"time":"2026-04-05T02:32:19.821Z","msg":"handleConfigMessagesViaLibSession of \"1\" messages with libsession"}
+{"level":30,"time":"2026-04-05T02:32:26.077Z","msg":"received userConfigMessagesMerged count: 1"}
+{"level":30,"time":"2026-04-05T02:32:26.077Z","msg":"handleConfigMessagesViaLibSession of \"1\" messages with libsession"}
+{"level":30,"time":"2026-04-05T02:32:32.724Z","msg":"received userConfigMessagesMerged count: 1"}
+{"level":30,"time":"2026-04-05T02:32:32.724Z","msg":"handleConfigMessagesViaLibSession of \"1\" messages with libsession"}
+{"level":30,"time":"2026-04-05T02:32:32.731Z","msg":"innerHandleSwarmContentMessage"}
+{"level":30,"time":"2026-04-05T02:32:32.732Z","msg":"handleSwarmDataMessage"}
+{"level":30,"time":"2026-04-05T02:32:32.732Z","msg":"Handle dataMessage about convo (...63be6267) from user: (...63be6267)"}
+{"level":30,"time":"2026-04-05T02:32:32.733Z","msg":"Starting handleMessageJob for message msg(8c047a92-37f0-4a09-a205-d4684e82133a, priv:(...63be6267), 1775356359698), undefined in conversation priv:(...63be6267), messageHash: 3ZVLvMy+ib8dAtI9gm1HlCcleeUqAUq4znN9fHuY0YA"}
+{"level":30,"time":"2026-04-05T02:32:36.529Z","msg":"those user variants needs push: \"ConvoInfoVolatileConfig\""}
+{"level":30,"time":"2026-04-05T02:32:37.748Z","msg":"sendMessagesDataToSnode - Successfully sent requests to (...63be6267) via (...63eb30) (requests: store-(...63be6267)-convoVolatile, delete-us)"}
+{"level":30,"time":"2026-04-05T02:32:38.807Z","msg":"received userConfigMessagesMerged count: 1"}
+{"level":30,"time":"2026-04-05T02:32:38.807Z","msg":"handleConfigMessagesViaLibSession of \"1\" messages with libsession"}
+{"level":30,"time":"2026-04-05T02:32:42.212Z","msg":"[updater] about to fetchReleaseFromFSAndUpdateMain"}
+{"level":30,"time":"2026-04-05T02:32:42.213Z","msg":"[updater] fetched release from fs 1 minutes ago, skipping until that's at least 30"}
+{"level":30,"time":"2026-04-05T02:32:45.536Z","msg":"received userConfigMessagesMerged count: 1"}
+{"level":30,"time":"2026-04-05T02:32:45.536Z","msg":"handleConfigMessagesViaLibSession of \"1\" messages with libsession"}
+{"level":30,"time":"2026-04-05T02:32:51.768Z","msg":"received userConfigMessagesMerged count: 1"}
+{"level":30,"time":"2026-04-05T02:32:51.768Z","msg":"handleConfigMessagesViaLibSession of \"1\" messages with libsession"}
+{"level":30,"time":"2026-04-05T02:32:58.278Z","msg":"received userConfigMessagesMerged count: 1"}
+{"level":30,"time":"2026-04-05T02:32:58.278Z","msg":"handleConfigMessagesViaLibSession of \"1\" messages with libsession"}
+{"level":30,"time":"2026-04-05T02:33:05.292Z","msg":"received userConfigMessagesMerged count: 1"}
+{"level":30,"time":"2026-04-05T02:33:05.292Z","msg":"handleConfigMessagesViaLibSession of \"1\" messages with libsession"}
+{"level":30,"time":"2026-04-05T02:33:09.256Z","msg":"data.shutdown: starting process. 0 jobs outstanding"}
+{"level":30,"time":"2026-04-05T02:33:09.256Z","msg":"data.shutdown: No outstanding jobs"}
+{"level":30,"time":"2026-04-05T02:51:52.508Z","msg":"Setup Complete with crowdinLocale: en"}
+{"level":30,"time":"2026-04-05T02:51:52.921Z","msg":"background page reloaded"}
+{"level":30,"time":"2026-04-05T02:51:52.921Z","msg":"environment: production"}
+{"level":30,"time":"2026-04-05T02:51:52.922Z","msg":"Storage fetch"}
+{"level":30,"time":"2026-04-05T02:51:52.924Z","msg":"[updater] New version detected: 1.17.12; previous: undefined"}
+{"level":30,"time":"2026-04-05T02:51:52.983Z","msg":"initializeLibSessionUtilWrappers alldumpsInDB already:  [{\"publicKey\":\"[REDACTED]\",\"variant\":\"UserGroupsConfig\"},{\"publicKey\":\"[REDACTED]\",\"variant\":\"ContactsConfig\"},{\"publicKey\":\"[REDACTED]\",\"variant\":\"UserConfig\"},{\"publicKey\":\"[REDACTED]\",\"variant\":\"ConvoInfoVolatileConfig\"}]"}
+{"level":30,"time":"2026-04-05T02:51:52.985Z","msg":"LibSessionUtil.initializeLibSessionUtilWrappers init OK"}
+{"level":30,"time":"2026-04-05T02:51:53.025Z","msg":"Processing 2 contacts and 3 volatile convos"}
+{"level":30,"time":"2026-04-05T02:51:53.026Z","msg":"refreshAllWrappersMappedValues took 1ms"}
+{"level":30,"time":"2026-04-05T02:51:53.027Z","msg":"ConversationController: done with initial fetch in 5ms."}
+{"level":30,"time":"2026-04-05T02:51:53.029Z","msg":"Cleanup: starting..."}
+{"level":30,"time":"2026-04-05T02:51:53.030Z","msg":"Cleanup: Found 0 messages for cleanup"}
+{"level":30,"time":"2026-04-05T02:51:53.030Z","msg":"Cleanup: complete"}
+{"level":30,"time":"2026-04-05T02:51:53.030Z","msg":"listening for registration events"}
+{"level":30,"time":"2026-04-05T02:51:53.030Z","msg":"connect"}
+{"level":40,"time":"2026-04-05T02:51:53.034Z","msg":"[snodePool] getSnodePoolFromDBOrFetchFromSeed: not enough snodes in db (undefined), Fetching from seed node instead... "}
+{"level":30,"time":"2026-04-05T02:51:53.034Z","msg":"fetchSnodePoolFromSeedNode with seedNodes.length 3"}
+{"level":30,"time":"2026-04-05T02:51:53.034Z","msg":"getSnodeListFromSeednode starting..."}
+{"level":30,"time":"2026-04-05T02:51:53.034Z","msg":"fetchSnodePoolFromSeedNodeRetryable starting..."}
+{"level":30,"time":"2026-04-05T02:51:53.034Z","msg":"getSnodesFromSeedUrl starting with [REDACTED]"}
+{"level":30,"time":"2026-04-05T02:51:53.035Z","msg":"getSnodesFromSeedUrl starting with [REDACTED]"}
+{"level":30,"time":"2026-04-05T02:51:53.035Z","msg":"getSnodesFromSeedUrl starting with [REDACTED]"}
+{"level":30,"time":"2026-04-05T02:51:53.035Z","msg":"insecureNodeFetch => plaintext for getSnodesFromSeedUrl  [REDACTED]"}
+{"level":30,"time":"2026-04-05T02:51:53.045Z","msg":"insecureNodeFetch => plaintext for getSnodesFromSeedUrl  [REDACTED]"}
+{"level":30,"time":"2026-04-05T02:51:53.045Z","msg":"insecureNodeFetch => plaintext for getSnodesFromSeedUrl  [REDACTED]"}
+{"level":30,"time":"2026-04-05T02:51:53.047Z","msg":"createInitialDumpsMissingForGroups: creating 0 groups from user config that does not have a dump"}
+{"level":30,"time":"2026-04-05T02:51:53.090Z","msg":"i18n: userLocaleDashed: 'en', mapping to browser locale: en"}
+{"level":30,"time":"2026-04-05T02:51:53.244Z","msg":"seednode checkServerIdentity: seed1.getsession.org"}
+{"level":30,"time":"2026-04-05T02:51:53.292Z","msg":"seednode checkServerIdentity: seed2.getsession.org"}
+{"level":30,"time":"2026-04-05T02:51:53.337Z","msg":"SeedNodeAPI::fetchSnodePoolFromSeedNodeWithRetries - Refreshed random snode pool with 1569 snodes"}
+{"level":30,"time":"2026-04-05T02:51:53.341Z","msg":"[snodePool] fetchSnodePoolFromSeedNodeWithRetries took 307ms"}
+{"level":30,"time":"2026-04-05T02:51:53.342Z","msg":"[onionPaths] Must have at least 1 good onion paths, actual: 0, attempt #0"}
+{"level":30,"time":"2026-04-05T02:51:53.343Z","msg":"[onionPaths] buildNewOnionPaths - building new onion paths..."}
+{"level":30,"time":"2026-04-05T02:51:53.343Z","msg":"[onionPaths] buildNewOnionPaths, snodePool length: 1569"}
+{"level":30,"time":"2026-04-05T02:51:53.346Z","msg":"[onionPaths] Building 2 onion paths based on guard nodes length: 2, other nodes length 1568 "}
+{"level":30,"time":"2026-04-05T02:51:53.347Z","msg":"[onionPaths] Built 2 onion paths"}
+{"level":30,"time":"2026-04-05T02:51:53.438Z","msg":"seednode checkServerIdentity: seed3.getsession.org"}
+{"level":30,"time":"2026-04-05T02:51:56.859Z","msg":"destroyExpiredMessages: Loading messages..."}
+{"level":30,"time":"2026-04-05T02:51:56.860Z","msg":"destroyExpiredMessages: convosToRefresh: []"}
+{"level":30,"time":"2026-04-05T02:51:56.860Z","msg":"destroyExpiredMessages: complete"}
+{"level":30,"time":"2026-04-05T02:51:56.863Z","msg":"Loading 2 messages (0 quoted messages) took 3ms to load for convo (...63be6267)."}
+{"level":30,"time":"2026-04-05T02:51:59.403Z","msg":"data.shutdown: starting process. 0 jobs outstanding"}
+{"level":30,"time":"2026-04-05T02:51:59.403Z","msg":"data.shutdown: No outstanding jobs"}
+{"level":30,"time":"2026-04-05T02:52:17.092Z","msg":"Setup Complete with crowdinLocale: en"}
+{"level":30,"time":"2026-04-05T02:52:17.479Z","msg":"background page reloaded"}
+{"level":30,"time":"2026-04-05T02:52:17.479Z","msg":"environment: production"}
+{"level":30,"time":"2026-04-05T02:52:17.479Z","msg":"Storage fetch"}
+{"level":30,"time":"2026-04-05T02:52:17.541Z","msg":"initializeLibSessionUtilWrappers alldumpsInDB already:  [{\"publicKey\":\"[REDACTED]\",\"variant\":\"UserGroupsConfig\"},{\"publicKey\":\"[REDACTED]\",\"variant\":\"ContactsConfig\"},{\"publicKey\":\"[REDACTED]\",\"variant\":\"UserConfig\"},{\"publicKey\":\"[REDACTED]\",\"variant\":\"ConvoInfoVolatileConfig\"}]"}
+{"level":30,"time":"2026-04-05T02:52:17.542Z","msg":"LibSessionUtil.initializeLibSessionUtilWrappers init OK"}
+{"level":30,"time":"2026-04-05T02:52:17.576Z","msg":"Processing 2 contacts and 3 volatile convos"}
+{"level":30,"time":"2026-04-05T02:52:17.578Z","msg":"refreshAllWrappersMappedValues took 2ms"}
+{"level":30,"time":"2026-04-05T02:52:17.578Z","msg":"ConversationController: done with initial fetch in 5ms."}
+{"level":30,"time":"2026-04-05T02:52:17.579Z","msg":"Cleanup: starting..."}
+{"level":30,"time":"2026-04-05T02:52:17.580Z","msg":"Cleanup: Found 0 messages for cleanup"}
+{"level":30,"time":"2026-04-05T02:52:17.580Z","msg":"Cleanup: complete"}
+{"level":30,"time":"2026-04-05T02:52:17.580Z","msg":"listening for registration events"}
+{"level":30,"time":"2026-04-05T02:52:17.580Z","msg":"connect"}
+{"level":30,"time":"2026-04-05T02:52:17.586Z","msg":"[onionPaths] Must have at least 1 good onion paths, actual: 0, attempt #0"}
+{"level":30,"time":"2026-04-05T02:52:17.586Z","msg":"[onionPaths] buildNewOnionPaths - building new onion paths..."}
+{"level":30,"time":"2026-04-05T02:52:17.587Z","msg":"[onionPaths] buildNewOnionPaths, snodePool length: 1569"}
+{"level":30,"time":"2026-04-05T02:52:17.589Z","msg":"[onionPaths] Building 2 onion paths based on guard nodes length: 2, other nodes length 1568 "}
+{"level":30,"time":"2026-04-05T02:52:17.590Z","msg":"[onionPaths] Built 2 onion paths"}
+{"level":30,"time":"2026-04-05T02:52:17.591Z","msg":"createInitialDumpsMissingForGroups: creating 0 groups from user config that does not have a dump"}
+{"level":30,"time":"2026-04-05T02:52:17.625Z","msg":"i18n: userLocaleDashed: 'en', mapping to browser locale: en"}
+{"level":30,"time":"2026-04-05T02:52:18.651Z","msg":"destroyExpiredMessages: Loading messages..."}
+{"level":30,"time":"2026-04-05T02:52:18.652Z","msg":"destroyExpiredMessages: convosToRefresh: []"}
+{"level":30,"time":"2026-04-05T02:52:18.652Z","msg":"destroyExpiredMessages: complete"}
+{"level":30,"time":"2026-04-05T02:52:18.655Z","msg":"Loading 2 messages (0 quoted messages) took 3ms to load for convo (...63be6267)."}
+{"level":30,"time":"2026-04-05T02:53:10.477Z","msg":"data.shutdown: starting process. 0 jobs outstanding"}
+{"level":30,"time":"2026-04-05T02:53:10.478Z","msg":"data.shutdown: No outstanding jobs"}
+{"level":30,"time":"2026-04-05T02:56:20.749Z","msg":"Setup Complete with crowdinLocale: en"}
+{"level":30,"time":"2026-04-05T02:56:21.140Z","msg":"background page reloaded"}
+{"level":30,"time":"2026-04-05T02:56:21.140Z","msg":"environment: production"}
+{"level":30,"time":"2026-04-05T02:56:21.140Z","msg":"Storage fetch"}
+{"level":30,"time":"2026-04-05T02:56:21.202Z","msg":"initializeLibSessionUtilWrappers alldumpsInDB already:  [{\"publicKey\":\"[REDACTED]\",\"variant\":\"UserGroupsConfig\"},{\"publicKey\":\"[REDACTED]\",\"variant\":\"ContactsConfig\"},{\"publicKey\":\"[REDACTED]\",\"variant\":\"UserConfig\"},{\"publicKey\":\"[REDACTED]\",\"variant\":\"ConvoInfoVolatileConfig\"}]"}
+{"level":30,"time":"2026-04-05T02:56:21.204Z","msg":"LibSessionUtil.initializeLibSessionUtilWrappers init OK"}
+{"level":30,"time":"2026-04-05T02:56:21.239Z","msg":"Processing 2 contacts and 3 volatile convos"}
+{"level":30,"time":"2026-04-05T02:56:21.240Z","msg":"refreshAllWrappersMappedValues took 1ms"}
+{"level":30,"time":"2026-04-05T02:56:21.241Z","msg":"ConversationController: done with initial fetch in 5ms."}
+{"level":30,"time":"2026-04-05T02:56:21.243Z","msg":"Cleanup: starting..."}
+{"level":30,"time":"2026-04-05T02:56:21.244Z","msg":"Cleanup: Found 0 messages for cleanup"}
+{"level":30,"time":"2026-04-05T02:56:21.244Z","msg":"Cleanup: complete"}
+{"level":30,"time":"2026-04-05T02:56:21.244Z","msg":"listening for registration events"}
+{"level":30,"time":"2026-04-05T02:56:21.244Z","msg":"connect"}
+{"level":30,"time":"2026-04-05T02:56:21.250Z","msg":"[onionPaths] Must have at least 1 good onion paths, actual: 0, attempt #0"}
+{"level":30,"time":"2026-04-05T02:56:21.251Z","msg":"[onionPaths] buildNewOnionPaths - building new onion paths..."}
+{"level":30,"time":"2026-04-05T02:56:21.251Z","msg":"[onionPaths] buildNewOnionPaths, snodePool length: 1569"}
+{"level":30,"time":"2026-04-05T02:56:21.254Z","msg":"[onionPaths] Building 2 onion paths based on guard nodes length: 2, other nodes length 1568 "}
+{"level":30,"time":"2026-04-05T02:56:21.254Z","msg":"[onionPaths] Built 2 onion paths"}
+{"level":30,"time":"2026-04-05T02:56:21.255Z","msg":"createInitialDumpsMissingForGroups: creating 0 groups from user config that does not have a dump"}
+{"level":30,"time":"2026-04-05T02:56:21.289Z","msg":"i18n: userLocaleDashed: 'en', mapping to browser locale: en"}
+{"level":30,"time":"2026-04-05T02:56:21.873Z","msg":"destroyExpiredMessages: Loading messages..."}
+{"level":30,"time":"2026-04-05T02:56:21.874Z","msg":"destroyExpiredMessages: convosToRefresh: []"}
+{"level":30,"time":"2026-04-05T02:56:21.874Z","msg":"destroyExpiredMessages: complete"}
+{"level":30,"time":"2026-04-05T02:56:21.876Z","msg":"Loading 2 messages (0 quoted messages) took 2ms to load for convo (...63be6267)."}
+{"level":30,"time":"2026-04-05T02:56:26.283Z","msg":"data.shutdown: starting process. 0 jobs outstanding"}
+{"level":30,"time":"2026-04-05T02:56:26.283Z","msg":"data.shutdown: No outstanding jobs"}
